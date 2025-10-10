@@ -1,0 +1,39 @@
+{
+  "overview": "Beginner-friendly {{tank_size_gal}}g {{livestock}} setup focused on stability and humane care.",
+  "equipment_list": [
+    { "item": "Filter", "why": "Gentle, reliable flow; livestock-safe intake." },
+    { "item": "Heater", "why": "Holds target temperature for {{livestock}}." },
+    { "item": "Substrate", "why": "Stable base; easy maintenance." },
+    { "item": "Plants/Hardscape", "why": "Habitat and biofilm; nitrate uptake." },
+    { "item": "Water Conditioner", "why": "Removes chlorine/chloramine." }
+  ],
+  "water_targets": {
+    "temp_F": "{{temp_F}}",
+    "pH": "{{pH}}",
+    "GH_dGH": "{{GH_dGH}}",
+    "KH_dKH": "{{KH_dKH}}",
+    "ammonia_ppm": "0",
+    "nitrite_ppm": "0",
+    "nitrate_ppm": "<20"
+  },
+  "steps_week0_1": [
+    "Rinse tank and gear. Set up filter and heater; place hardscape and easy plants.",
+    "Fill with dechlorinated water. Start fishless cycle with bottled bacteria and a small ammonia source.",
+    "Test daily. Do not add livestock until ammonia and nitrite read 0 for three consecutive days.",
+    "Feed imaginary (pinch of food) every 2–3 days during cycling to sustain bacteria."
+  ],
+  "maintenance": [
+    "Weekly: 20–30% water change with temperature-matched, dechlorinated water.",
+    "Gently clean prefilter sponge; trim plants as needed.",
+    "Test nitrate; keep below 20 ppm with changes and plants."
+  ],
+  "shop_the_build": {
+    "categories": ["Filter", "Heater", "Substrate", "Plants", "Water Conditioner"],
+    "disclosure_from_rules": true
+  },
+  "citations_required_for": [
+    "water_targets",
+    "cycling_requirement",
+    "livestock_specific_notes"
+  ]
+}
