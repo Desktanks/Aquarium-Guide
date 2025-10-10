@@ -13,4 +13,10 @@
 Some recommendations may include sponsored or affiliate links. Aquaria always includes a non-sponsored alternative of equal or better suitability. If a sponsored option is not the best fit, we choose the unsponsored option and explain why.
 
 ## Support
-Questions or safety concerns? Contact: **support@yourdomain.example**
+Questions or safety concerns? Contact: **info@yjamesdelong.com**
+
+## How enforcement works (v1)
+- `src/safety_rules.json` lists pattern groups to refuse or soft-redirect.
+- `src/safety_messages.json` contains the exact copy used in chat.
+- A footer (`src/footer.json`) adds support contact + sponsorship disclosure to every reply.
+- Example transcripts live in `/src/examples/blocked_*.json`.
