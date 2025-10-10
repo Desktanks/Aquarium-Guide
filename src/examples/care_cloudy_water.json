@@ -1,0 +1,39 @@
+{
+  "prompt": "My new tank is cloudy after three days — what do I do?",
+  "module": "care_troubleshoot",
+  "inputs": { "issue": "cloudy water", "tank_size_gal": 20, "livestock": "none (cycling)", "context": "set up 3 days ago; new filter; fed once" },
+  "render": {
+    "overview": "Cloudiness in a new setup is usually a harmless bacterial bloom. Don’t panic; aim for stability.",
+    "likely_causes": [
+      "Normal bacterial bloom during early cycling",
+      "Overfeeding in an uncycled tank",
+      "Disturbed fine substrate"
+    ],
+    "fix_steps": [
+      "Stop feeding until cycling completes.",
+      "Run filter continuously; point outlet at surface for oxygenation.",
+      "Avoid large water changes; if visibility is near zero, do 15% changes every 48h.",
+      "Test daily; only add livestock when ammonia and nitrite are both 0 for 3 consecutive days."
+    ],
+    "prevention": [
+      "Feed very lightly during the first 1–2 weeks.",
+      "Rinse new substrate thoroughly before use.",
+      "Add hardy live plants to compete with excess nutrients."
+    ],
+    "useful_gear": [
+      { "category": "Filter", "primary": { "brand": "XYZAqua", "model": "QuietSponge 20", "url": "https://example.com/xyzaqua-quiet20?s=aff123", "sponsored": true }, "alternative": { "brand": "Generic", "model": "Sponge Filter 20", "url": "https://example.com/generic-sponge20", "sponsored": false } }
+    ],
+    "citations": [
+      {
+        "claim_id": "C_cycle_zero",
+        "source_id": "AQC_cycling",
+        "url": "https://www.aquariumcoop.com/blogs/aquarium/cycle",
+        "title": "Aquarium Cycling Guide",
+        "publisher": "Aquarium Co-Op",
+        "accessed_at": "2025-10-10",
+        "reliability": 3
+      }
+    ],
+    "footer": "Questions or concerns? support@yourdomain.example • Aquaria shares citations and includes non-sponsored alternatives for any product links."
+  }
+}
