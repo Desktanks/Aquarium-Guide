@@ -1,0 +1,5 @@
+{
+  "prompt": "Show how a messy output becomes a formatted Aquaria answer.",
+  "before": "Overview: beginner tank. equipment: sponge filter heater plants. steps: fill tank add shrimp next day.",
+  "after": "**Overview**  \nBeginner 10g tank focused on stability and humane care.\n\n**Equipment List**  \n• Sponge filter — gentle flow  \n• Adjustable heater — holds 72–76°F  \n• Easy plants — java moss, anubias\n\n**Steps**  \n1. Fill with dechlorinated water.\n2. Run filter for 3 days before adding livestock.\n3. Test ammonia/nitrite = 0 before adding shrimp.\n\n**Footer**  \nQuestions or concerns? support@yourdomain.example"
+}
