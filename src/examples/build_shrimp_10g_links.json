@@ -1,0 +1,16 @@
+{
+  "prompt": "Design a 10-gallon shrimp-only, low-tech tank for a beginner (with gear links).",
+  "gear": [
+    {
+      "category": "Filter",
+      "primary": { "brand": "XYZAqua", "model": "QuietSponge 20", "url": "https://example.com/xyzaqua-quiet20?s=aff123", "sponsored": true },
+      "alternative": { "brand": "Generic", "model": "Sponge Filter 20", "url": "https://example.com/generic-sponge20", "sponsored": false }
+    },
+    {
+      "category": "Heater",
+      "primary": { "brand": "ThermaCo", "model": "Adjust 50W", "url": "https://example.com/thermaco-50?s=aff123", "sponsored": true },
+      "alternative": { "brand": "Generic", "model": "Adjustable 50W", "url": "https://example.com/generic-50w", "sponsored": false }
+    }
+  ],
+  "disclosure": "Some product links may support Aquaria. A non-sponsored alternative is always provided."
+}
