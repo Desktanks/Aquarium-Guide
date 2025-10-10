@@ -1,0 +1,14 @@
+{
+  "description": "Routes user prompts to the correct Aquaria module.",
+  "routes": [
+    {
+      "intent": "build_setup",
+      "patterns": ["build", "setup", "design", "tank plan", "equipment", "cycle"]
+    },
+    {
+      "intent": "care_troubleshoot",
+      "patterns": ["fix", "issue", "problem", "algae", "cloudy", "sick", "trouble"]
+    }
+  ],
+  "default_intent": "build_setup"
+}
