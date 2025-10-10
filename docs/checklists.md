@@ -12,3 +12,4 @@
 - [x] Safety rules + messages + examples
 - [x] Tone and voice strings centralized
 - [x] Build/Setup Plan module added with template + full example
+- [x] Care & Troubleshooting module added with template + examples
