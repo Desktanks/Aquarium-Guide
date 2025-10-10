@@ -4,7 +4,7 @@
 - [x] Repo scaffolded
 - [x] Hello-tank tool live
 - [x] Safety and research docs started
-- [ ] Store assets drafted
+- [x] Store assets drafted (tagline, description, category, support, icon/screenshot notes, demo script, submission stub)
 - [x] Intent router defined
 - [x] Response templates added
 - [x] Research whitelist + schema + example
@@ -16,4 +16,3 @@
 - [x] Privacy & data minimalism docs + config
 - [x] Layout & UX formatting guide added with before/after demo
 - [x] Auth stance documented (no external accounts for v1)
-- [x] Store assets drafted (tagline, description, category, support, icon/screenshot notes, demo script, submission stub)
