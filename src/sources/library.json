@@ -1,0 +1,39 @@
+{
+  "sources": [
+    {
+      "id": "SF_shrimp_water",
+      "title": "Neocaridina davidi — Species Profile",
+      "publisher": "SeriouslyFish",
+      "url": "https://www.seriouslyfish.com/species/neocaridina-davidi/",
+      "tier": "B"
+    },
+    {
+      "id": "FB_general",
+      "title": "FishBase — Global Species Database",
+      "publisher": "FishBase",
+      "url": "https://www.fishbase.se/",
+      "tier": "B"
+    },
+    {
+      "id": "RSPCA_fish_welfare",
+      "title": "Caring for fish",
+      "publisher": "RSPCA",
+      "url": "https://www.rspca.org.uk/adviceandwelfare/pets/fish",
+      "tier": "B"
+    },
+    {
+      "id": "EPA_drinking_water_basics",
+      "title": "Water Quality Basics",
+      "publisher": "US EPA",
+      "url": "https://www.epa.gov/ground-water-and-drinking-water",
+      "tier": "A"
+    },
+    {
+      "id": "AQC_cycling",
+      "title": "Aquarium Cycling Guide",
+      "publisher": "Aquarium Co-Op",
+      "url": "https://www.aquariumcoop.com/blogs/aquarium/cycle",
+      "tier": "C"
+    }
+  ]
+}
