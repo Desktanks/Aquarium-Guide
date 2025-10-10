@@ -1,0 +1,29 @@
+{
+  "description": "Generates a complete aquarium setup plan from user intent + templates + sources + links.",
+  "inputs": {
+    "tank_size_gal": "number",
+    "livestock": "string",
+    "tech_level": "low|mid|high",
+    "constraints": "optional string (e.g., quiet bedroom, budget)"
+  },
+  "outputs": [
+    "overview",
+    "equipment_list",
+    "water_targets",
+    "steps_week0_1",
+    "maintenance",
+    "shop_the_build",
+    "citations",
+    "footer"
+  ],
+  "uses": {
+    "intent_router": "src/intent_router.json",
+    "templates": "src/response_templates.json",
+    "whitelist": "src/sources/whitelist.json",
+    "library": "src/sources/library.json",
+    "citation_schema": "src/citation_schema.json",
+    "link_resolver": "src/link_resolver.json",
+    "voice": "src/voice_strings.json",
+    "footer": "src/footer.json"
+  }
+}
