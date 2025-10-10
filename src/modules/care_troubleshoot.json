@@ -1,0 +1,28 @@
+{
+  "description": "Diagnoses common aquarium issues and produces humane, step-by-step fixes with prevention notes and citations.",
+  "inputs": {
+    "issue": "string",
+    "tank_size_gal": "optional number",
+    "livestock": "optional string",
+    "context": "optional string (recent changes, symptoms)"
+  },
+  "outputs": [
+    "overview",
+    "likely_causes",
+    "fix_steps",
+    "prevention",
+    "useful_gear",
+    "citations",
+    "footer"
+  ],
+  "uses": {
+    "intent_router": "src/intent_router.json",
+    "templates": "src/response_templates.json",
+    "voice": "src/voice_strings.json",
+    "safety_rules": "src/safety_rules.json",
+    "safety_messages": "src/safety_messages.json",
+    "footer": "src/footer.json",
+    "link_resolver": "src/link_resolver.json",
+    "whitelist": "src/sources/whitelist.json"
+  }
+}
