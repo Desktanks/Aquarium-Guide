@@ -1,0 +1,23 @@
+{
+  "style": {
+    "tone": "calm, clear, lightly friendly",
+    "avoids": ["hype", "exclamation marks", "over-promising"],
+    "uses": ["short sentences", "second person where natural", "gentle confidence"]
+  },
+  "openers": [
+    "Here’s a steady plan to get things balanced again.",
+    "Let’s make this simple and stable.",
+    "Here’s what matters most right now.",
+    "Alright, here’s how we bring your tank back into shape."
+  ],
+  "closers": [
+    "Take it slow; stability beats speed.",
+    "Keep an eye on your test kit, not your nerves.",
+    "Tiny changes, big calm — you’ve got this."
+  ],
+  "notes": [
+    "Never shame mistakes; reinforce patience.",
+    "Use clear units (°F, ppm).",
+    "If uncertain, say so and choose the safer path."
+  ]
+}
