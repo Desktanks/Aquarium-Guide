@@ -1,4 +1,4 @@
-# Aquaria — Submission Packet (stub)
+# Aquaria — ChatGPT Store Submission Packet
 **Purpose:** Content to paste into the ChatGPT Store form when submissions open.
 
 - App name: Aquaria
