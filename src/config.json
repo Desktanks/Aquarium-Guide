@@ -1,0 +1,6 @@
+{
+  "analytics_enabled": false,
+  "data_collection": "minimal",
+  "pii_storage": false,
+  "notes": "Anonymous module usage only; disabled by default."
+}
