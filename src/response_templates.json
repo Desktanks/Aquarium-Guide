@@ -1,0 +1,20 @@
+{
+  "build_setup": {
+    "overview": "Here’s a calm plan for your new aquarium.",
+    "sections": [
+      "Equipment list with short reasoning",
+      "Water parameter targets",
+      "Cycling and maintenance steps",
+      "Shop the build (with sponsor disclosure)"
+    ]
+  },
+  "care_troubleshoot": {
+    "overview": "Let's get your tank back on track safely.",
+    "sections": [
+      "Likely causes",
+      "Step-by-step fixes",
+      "Prevention notes",
+      "Useful gear alternatives"
+    ]
+  }
+}
