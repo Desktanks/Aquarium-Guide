@@ -1,0 +1,9 @@
+category,brand,model,specs,affiliate_url,sponsor_flag,priority
+Filter,XYZAqua,QuietSponge 20,"sponge+air, up to 20g",https://example.com/xyzaqua-quiet20?s=aff123,true,1
+Filter,Generic,Sponge Filter 20,"sponge+air, up to 20g",https://example.com/generic-sponge20,false,2
+Heater,ThermaCo,Adjust 50W,"adjustable, 50W",https://example.com/thermaco-50?s=aff123,true,1
+Heater,Generic,Adjustable 50W,"adjustable, 50W",https://example.com/generic-50w,false,2
+Substrate,InertCo,Inert Sand,"neutral, fine grain",https://example.com/inertco-sand,false,1
+Plants,LiveGreen,Java Moss,"low light, easy",https://example.com/livegreen-java-moss,false,1
+Water Conditioner,ClearWater,PrimeEquivalent,"dechlorinator, ammonia binder",https://example.com/clearwater-prime?s=aff123,true,1
+Water Conditioner,Generic,Dechlorinator,"standard dechlorinator",https://example.com/generic-dechlor,false,2
