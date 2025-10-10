@@ -11,3 +11,4 @@
 - [x] Link resolver + CSV + disclosure added
 - [x] Safety rules + messages + examples
 - [x] Tone and voice strings centralized
+- [x] Build/Setup Plan module added with template + full example
