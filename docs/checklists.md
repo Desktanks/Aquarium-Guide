@@ -15,3 +15,4 @@
 - [x] Care & Troubleshooting module added with template + examples
 - [x] Privacy & data minimalism docs + config
 - [x] Layout & UX formatting guide added with before/after demo
+- [x] Auth stance documented (no external accounts for v1)
