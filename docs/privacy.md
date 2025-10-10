@@ -22,4 +22,4 @@
 - All network calls are HTTPS.  
 
 ## Contact
-For questions or removal requests: **info@yjamesdelong.com**
+For questions or removal requests: **info@jamesdelong.com**
