@@ -1,0 +1,5 @@
+{
+  "requires_auth": false,
+  "oauth_planned": false,
+  "notes": "v1 has no external accounts. If partners are added later, switch to OAuth 2.1 with PKCE."
+}
