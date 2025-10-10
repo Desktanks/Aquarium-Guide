@@ -39,7 +39,7 @@
 
 ## 5. Known issues / todos
 _(List anything that needs cleanup before submission)_
-- [ ] Fix any outdated emails or URLs  
+- [x] Fix any outdated emails or URLs 
 - [ ] Replace placeholder links with real ones when sponsors confirmed  
 - [ ] Record 30s demo clip (optional)  
 
