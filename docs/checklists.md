@@ -1,9 +1,10 @@
 # Build Checklists
 
-- [x] MVP defined and published  
-- [ ] Repo scaffolded  
-- [ ] Hello-tank tool live  
-- [ ] Safety and research docs started  
+- [x] MVP defined and published
+- [x] Repo scaffolded
+- [x] Hello-tank tool live
+- [x] Safety and research docs started
 - [ ] Store assets drafted
 - [x] Intent router defined
 - [x] Response templates added
+- [x] Research whitelist + schema + example
