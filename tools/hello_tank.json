@@ -1,0 +1,13 @@
+{
+  "name": "hello_tank",
+  "description": "Returns a friendly greeting from Aquaria.",
+  "input_schema": {
+    "type": "object",
+    "properties": {
+      "user_name": { "type": "string", "description": "Name of the person greeting" }
+    },
+    "required": ["user_name"]
+  },
+  "example_input": { "user_name": "Alex" },
+  "example_output": "Hello Alex, your tank awaits!"
+}
