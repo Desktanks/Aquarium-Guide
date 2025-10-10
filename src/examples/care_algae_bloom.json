@@ -1,0 +1,39 @@
+{
+  "prompt": "Green algae bloom after two weeks with live plants. I don't want to use copper.",
+  "module": "care_troubleshoot",
+  "inputs": { "issue": "algae bloom", "tank_size_gal": 10, "livestock": "shrimp + snails", "context": "lights 10h/day; no CO2; new tank" },
+  "render": {
+    "overview": "Algae blooms are common in young planted tanks. We’ll trim light and nutrients without risky chemicals.",
+    "likely_causes": [
+      "Excess light duration for a new tank",
+      "Nutrient imbalance (high nitrate, low competition from plants)",
+      "Immature biofilter"
+    ],
+    "fix_steps": [
+      "Reduce photoperiod to 6–8 hours; keep a strict timer.",
+      "Manual remove: swirl and net floating clumps; wipe glass.",
+      "Add fast growers (hornwort, floaters) to soak up nutrients.",
+      "Weekly 25% water change until nitrate stays <20 ppm."
+    ],
+    "prevention": [
+      "Gradually increase light after 4–6 weeks if plants demand it.",
+      "Avoid overfeeding; keep stable CO2 from good surface agitation.",
+      "Test nitrate weekly and trim plants to maintain growth."
+    ],
+    "useful_gear": [
+      { "category": "Plants", "primary": { "brand": "LiveGreen", "model": "Java Moss", "url": "https://example.com/livegreen-java-moss", "sponsored": false }, "alternative": { "brand": "Plants", "model": "Floating plants (var.)", "url": "https://example.com/floaters", "sponsored": false } }
+    ],
+    "citations": [
+      {
+        "claim_id": "C_nitrate_target",
+        "source_id": "RSPCA_fish_welfare",
+        "url": "https://www.rspca.org.uk/adviceandwelfare/pets/fish",
+        "title": "Caring for fish",
+        "publisher": "RSPCA",
+        "accessed_at": "2025-10-10",
+        "reliability": 4
+      }
+    ],
+    "footer": "Questions or concerns? info@jamesdelong.com • Aquaria shares citations and includes non-sponsored alternatives for any product links."
+  }
+}
