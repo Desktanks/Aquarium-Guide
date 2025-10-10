@@ -1,0 +1,60 @@
+{
+  "prompt": "Design a 10-gallon shrimp-only, low-tech tank for a beginner.",
+  "module": "build_setup",
+  "inputs": { "tank_size_gal": 10, "livestock": "Neocaridina shrimp", "tech_level": "low", "constraints": "quiet bedroom" },
+  "render": {
+    "overview": "Beginner-friendly 10g Neocaridina shrimp setup focused on stability and humane care.",
+    "equipment_list": [
+      { "item": "Filter — Sponge filter + air pump", "why": "Gentle flow; shrimp-safe intake." },
+      { "item": "Heater — Adjustable 50W", "why": "Holds 72–76°F in cooler rooms." },
+      { "item": "Substrate — Inert sand/gravel", "why": "Keeps parameters stable; easy to clean." },
+      { "item": "Plants — Java moss / Subwassertang", "why": "Biofilm habitat; nitrate uptake." },
+      { "item": "Water Conditioner", "why": "Removes chlorine/chloramine." }
+    ],
+    "water_targets": { "temp_F": "72–76", "pH": "6.8–7.6", "GH_dGH": "6–8", "KH_dKH": "3–6", "ammonia_ppm": "0", "nitrite_ppm": "0", "nitrate_ppm": "<20" },
+    "steps_week0_1": [
+      "Rinse tank/gear; set up sponge filter and heater; plant mosses.",
+      "Fill with dechlorinated water; start fishless cycle with bottled bacteria.",
+      "Test daily; add shrimp only after 3 consecutive days with ammonia/nitrite at 0.",
+      "Keep lights modest; avoid feeding during cycling."
+    ],
+    "maintenance": [
+      "Weekly 20–30% water change; gentle prefilter sponge rinse in tank water.",
+      "Trim plants; keep nitrate <20 ppm."
+    ],
+    "shop_the_build_example": [
+      {
+        "category": "Filter",
+        "primary": { "brand": "XYZAqua", "model": "QuietSponge 20", "url": "https://example.com/xyzaqua-quiet20?s=aff123", "sponsored": true },
+        "alternative": { "brand": "Generic", "model": "Sponge Filter 20", "url": "https://example.com/generic-sponge20", "sponsored": false }
+      },
+      {
+        "category": "Heater",
+        "primary": { "brand": "ThermaCo", "model": "Adjust 50W", "url": "https://example.com/thermaco-50?s=aff123", "sponsored": true },
+        "alternative": { "brand": "Generic", "model": "Adjustable 50W", "url": "https://example.com/generic-50w", "sponsored": false }
+      }
+    ],
+    "citations": [
+      {
+        "claim_id": "C1_temp_pH_ranges",
+        "source_id": "SF_shrimp_water",
+        "url": "https://www.seriouslyfish.com/species/neocaridina-davidi/",
+        "title": "Neocaridina davidi — Species Profile",
+        "publisher": "SeriouslyFish",
+        "accessed_at": "2025-10-10",
+        "reliability": 4,
+        "notes": "Ranges adapted for beginners; prioritize stability."
+      },
+      {
+        "claim_id": "C2_cycle_requirement",
+        "source_id": "AQC_cycling",
+        "url": "https://www.aquariumcoop.com/blogs/aquarium/cycle",
+        "title": "Aquarium Cycling Guide",
+        "publisher": "Aquarium Co-Op",
+        "accessed_at": "2025-10-10",
+        "reliability": 3
+      }
+    ],
+    "footer": "Questions or concerns? support@yourdomain.example • Aquaria shares citations and includes non-sponsored alternatives for any product links."
+  }
+}
