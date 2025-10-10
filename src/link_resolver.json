@@ -1,0 +1,9 @@
+{
+  "description": "Picks a primary product and a required non-sponsored alternative for any category.",
+  "rules": {
+    "must_include_unsponsored_alternative": true,
+    "prefer_priority": true,
+    "disclosure": "Some links may support Aquaria. A non-sponsored alternative is always included.",
+    "fallback_text": "If links are unavailable, ask your local store for equivalent specs."
+  }
+}
