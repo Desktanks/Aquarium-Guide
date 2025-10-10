@@ -1,0 +1,33 @@
+{
+  "description": "Aquaria safety rules. If a user request matches a rule, use the mapped message and do not give harmful steps.",
+  "refuse_if": [
+    {
+      "id": "animal_harm",
+      "patterns": ["kill fish", "harm fish", "shock fish", "starve fish", "toxic prank", "boil live rock"],
+      "message_id": "humane_refusal"
+    },
+    {
+      "id": "illegal_wildlife",
+      "patterns": ["catch wild fish for my tank", "collect coral illegally", "protected species"],
+      "message_id": "legal_refusal"
+    },
+    {
+      "id": "unsafe_chemistry",
+      "patterns": ["pour bleach into tank", "dose copper with invertebrates", "mix ammonia and bleach", "overdose medication"],
+      "message_id": "unsafe_chemistry_refusal"
+    },
+    {
+      "id": "non_vet_diagnosis",
+      "patterns": ["diagnose human illness", "medical advice for people"],
+      "message_id": "human_med_refusal"
+    }
+  ],
+  "soft_redirect_if": [
+    {
+      "id": "urgent_animal_distress",
+      "patterns": ["gasping at surface", "fish dying now", "emergency help"],
+      "message_id": "urgent_triage",
+      "notes": "Provide immediate, low-risk triage steps only."
+    }
+  ]
+}
