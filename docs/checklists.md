@@ -5,3 +5,5 @@
 - [ ] Hello-tank tool live  
 - [ ] Safety and research docs started  
 - [ ] Store assets drafted
+- [x] Intent router defined
+- [x] Response templates added
