@@ -1,0 +1,55 @@
+{
+  "prompt": "Design a 10-gallon shrimp-only, low-tech tank for a beginner.",
+  "intent": "build_setup",
+  "overview": "Beginner-friendly 10g Neocaridina setup focused on stability and humane care.",
+  "equipment": [
+    { "item": "Sponge filter + air pump", "why": "Gentle flow; shrimp-safe intake." },
+    { "item": "Heater (adjustable, 50W)", "why": "Holds 72–76°F in cooler rooms." },
+    { "item": "Inert substrate + hardscape", "why": "Stable parameters; easy maintenance." },
+    { "item": "Live plants (java moss, subwassertang)", "why": "Biofilm habitat; nitrate uptake." }
+  ],
+  "water_targets": { "temp_F": "72–76", "pH": "6.8–7.6", "GH_dGH": "6–8", "KH_dKH": "3–6", "ammonia_ppm": "0", "nitrite_ppm": "0", "nitrate_ppm": "<20" },
+  "steps_week0_1": [
+    "Rinse tank/gear; set up sponge filter and heater.",
+    "Fill with dechlorinated water; plant easy mosses.",
+    "Begin fishless cycle with bottled bacteria and light ammonia source.",
+    "Test daily; only add shrimp when ammonia/nitrite are 0 for 3 days."
+  ],
+  "maintenance": [
+    "Weekly: 20–30% water change; gentle gravel vac.",
+    "Trim plants; clean prefilter sponge; top off evaporated water (dechlorinated)."
+  ],
+  "citations": [
+    {
+      "claim_id": "C1_temp_pH_ranges",
+      "source_id": "SF_shrimp_water",
+      "url": "https://www.seriouslyfish.com/species/neocaridina-davidi/",
+      "title": "Neocaridina davidi — Species Profile",
+      "publisher": "SeriouslyFish",
+      "accessed_at": "2025-10-10",
+      "evidence_quote": "Tolerant of a range of water conditions when stable.",
+      "reliability": 4,
+      "notes": "General ranges adapted for beginners."
+    },
+    {
+      "claim_id": "C2_cycle_requirement",
+      "source_id": "AQC_cycling",
+      "url": "https://www.aquariumcoop.com/blogs/aquarium/cycle",
+      "title": "Aquarium Cycling Guide",
+      "publisher": "Aquarium Co-Op",
+      "accessed_at": "2025-10-10",
+      "evidence_quote": "Ammonia and nitrite should read zero before adding livestock.",
+      "reliability": 3
+    },
+    {
+      "claim_id": "C3_humane_care",
+      "source_id": "RSPCA_fish_welfare",
+      "url": "https://www.rspca.org.uk/adviceandwelfare/pets/fish",
+      "title": "Caring for fish",
+      "publisher": "RSPCA",
+      "accessed_at": "2025-10-10",
+      "evidence_quote": "Provide stable, appropriate water quality and avoid sudden changes.",
+      "reliability": 4
+    }
+  ]
+}
