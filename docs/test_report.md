@@ -45,5 +45,5 @@ _(List anything that needs cleanup before submission)_
 
 ---
 
-**Status:** ✅ Functional skeleton verified  
+**Status:** ✅ v1 locked and verified
 **Next step:** CFT 15 — assemble `SUBMISSION.md` for ChatGPT Store packet
