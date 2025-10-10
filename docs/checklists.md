@@ -10,3 +10,4 @@
 - [x] Research whitelist + schema + example
 - [x] Link resolver + CSV + disclosure added
 - [x] Safety rules + messages + examples
+- [x] Tone and voice strings centralized
