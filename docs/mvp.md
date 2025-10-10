@@ -1,7 +1,3 @@
-Here you go — copy **everything** below this line into the empty GitHub editor box before you click *Commit changes…*
-
----
-
 # Aquaria — MVP Definition (CFT 1)
 
 **Owner:** You
