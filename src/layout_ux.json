@@ -1,0 +1,16 @@
+{
+  "description": "Formatting and layout conventions for Aquaria responses inside ChatGPT.",
+  "rules": {
+    "headings": "Use bold for section titles (no markdown #'s). Example: **Overview**",
+    "lists": "Use bullet points for unordered lists, numbered lists for steps.",
+    "spacing": "One blank line between sections; no double spacing.",
+    "tone_separator": "Keep tone calm; short sentences, no emojis.",
+    "icons": "Avoid decorative icons; rely on clarity instead.",
+    "citations": "Place inline citations at the end of relevant sentences in parentheses, e.g., (SeriouslyFish).",
+    "links": "Always show sponsored + unsponsored links clearly labeled.",
+    "footer": "Append support footer automatically after every response."
+  },
+  "examples_of_sections": [
+    "**Overview**  \nBeginner-friendly 10g shrimp setup focused on stability and humane care.\n\n**Equipment List**  \n• Sponge filter — gentle flow  \n• Adjustable heater — holds 72–76°F\n\n**Water Targets**  \npH 6.8–7.6  |  GH 6–8  |  KH 3–6  |  Temp 72–76°F\n\n**Steps for Week 1**  \n1. Fill and dechlorinate water.\n2. Add bacteria starter.\n3. Wait for ammonia/nitrite = 0 for 3 days.\n\n**Maintenance**  \nWeekly 20–30% water change.\n\n**Shop the Build**  \n[Sponsored] QuietSponge 20 | [Alt] Generic Sponge 20\n\nQuestions or concerns? support@yourdomain.example"
+  ]
+}
