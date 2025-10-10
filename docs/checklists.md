@@ -9,3 +9,4 @@
 - [x] Response templates added
 - [x] Research whitelist + schema + example
 - [x] Link resolver + CSV + disclosure added
+- [x] Safety rules + messages + examples
