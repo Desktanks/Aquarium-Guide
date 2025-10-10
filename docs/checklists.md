@@ -8,3 +8,4 @@
 - [x] Intent router defined
 - [x] Response templates added
 - [x] Research whitelist + schema + example
+- [x] Link resolver + CSV + disclosure added
