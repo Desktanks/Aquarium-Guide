@@ -18,4 +18,4 @@ If a future feature needs a sponsor or retailer API, we will:
 - No credential storage by Aquaria. Tokens (if ever used) are short-lived and scoped.
 
 ## Support
-Questions: **info@yjamesdelong.com**
+Questions: **info@jamesdelong.com**
