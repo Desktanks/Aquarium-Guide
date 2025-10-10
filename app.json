@@ -1,7 +1,20 @@
 {
   "name": "Aquaria",
-  "description": "ChatGPT app for building and caring for home aquariums.",
-  "version": "0.0.1",
+  "description": "Calm, cited guidance for aquarium setup and care.",
+  "version": "1.0.0",
   "author": "Desktanks",
-  "license": "MIT"
+  "license": "MIT",
+  "entrypoint": "src/intent_router.json",
+  "privacy_policy_url": "docs/privacy.md",
+  "safety_policy_url": "docs/safety.md",
+  "support_url": "store/support.txt",
+  "categories": ["Home & Hobbies"],
+  "manifest": {
+    "tools": [
+      {
+        "name": "hello_tank",
+        "path": "tools/hello_tank.json"
+      }
+    ]
+  }
 }
