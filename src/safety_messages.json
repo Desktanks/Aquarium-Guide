@@ -1,0 +1,7 @@
+{
+  "humane_refusal": "I can’t help with anything that harms animals. If something’s gone wrong, I can offer safer fixes that protect livestock.",
+  "legal_refusal": "I can’t assist with collecting protected wildlife or anything illegal. If you’re looking for alternatives, I can suggest ethical, legal sources.",
+  "unsafe_chemistry_refusal": "That’s unsafe for your tank and potentially you. I can suggest safer methods and products with citations.",
+  "human_med_refusal": "I’m not able to give medical advice for people. If someone is unwell, please contact a medical professional.",
+  "urgent_triage": "Let’s stabilize things right now without adding risk: 1) Stop feeding. 2) Add aeration/aim filter at the surface. 3) Partial water change with temperature-matched, dechlorinated water. 4) Test ammonia/nitrite; if above 0, repeat small water changes. I can help you plan next steps once readings are stable."
+}
