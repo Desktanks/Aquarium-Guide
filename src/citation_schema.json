@@ -1,0 +1,15 @@
+{
+  "type": "object",
+  "required": ["claim_id", "source_id", "url", "title", "publisher"],
+  "properties": {
+    "claim_id": { "type": "string", "description": "Local ID referencing the specific claim in the answer" },
+    "source_id": { "type": "string", "description": "ID from sources/library.json" },
+    "url": { "type": "string", "format": "uri" },
+    "title": { "type": "string" },
+    "publisher": { "type": "string" },
+    "accessed_at": { "type": "string", "description": "ISO date string" },
+    "evidence_quote": { "type": "string", "description": "≤25 words, optional" },
+    "reliability": { "type": "integer", "minimum": 1, "maximum": 5 },
+    "notes": { "type": "string" }
+  }
+}
