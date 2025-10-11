@@ -1,0 +1,56 @@
+pillar,intent,keywords,question,video_title,video_url,content_type,search_intent,last_updated,notes
+Starting a Nano Tank,build_setup,cycle|cycling|fishless,How do I cycle a new aquarium?,How to Cycle Your First Tank (No Fish Needed),,Long-form,Informational,2025-10-11,Foundational beginner guide
+Starting a Nano Tank,build_setup,tank size|first tank|gallon,What tank size should I start with?,Picking the Perfect Beginner Tank Size,,Short-form,Informational,2025-10-11,2.5g vs 5g vs 10g
+Starting a Nano Tank,build_setup,test kit|water test|parameters,How do I test water during cycling?,Testing Water Parameters During Cycling,,Short-form,Informational,2025-10-11,Demonstrate API kit basics
+Starting a Nano Tank,build_setup,substrate|gravel|sand,Which substrate should I use for planted tanks?,Choosing Substrate for Planted Aquariums,,Short-form,Commercial/Transactional,2025-10-11,Link to gear list
+Starting a Nano Tank,build_setup,heater|temperature|thermostat,Do I need a heater for my fish tank?,Heater Setup and Temperature Guide,,Short-form,Informational,2025-10-11,Room temp vs species needs
+Starting a Nano Tank,build_setup,light|lighting|photoperiod,How long should my aquarium light be on?,Lighting Schedules for Healthy Plants,,Short-form,Informational,2025-10-11,6–8h guidance
+Starting a Nano Tank,build_setup,betta|betta tank|5 gallon,How do I set up a Betta tank?,Betta Tank Setup Step-by-Step,,Long-form,Informational,2025-10-11,"Calm, humane care focus"
+Starting a Nano Tank,build_setup,shrimp|neocaridina|shrimp-only,How do I set up a shrimp tank?,Beginner Shrimp Tank Build (Neocaridina),,Long-form,Informational,2025-10-11,Use sponge filter + plants
+Starting a Nano Tank,build_setup,budget|cheap|starter kit,Can I build a budget aquarium?,Budget Aquarium Build That Still Looks Great,,Long-form,Commercial/Transactional,2025-10-11,Under-$100 build
+Starting a Nano Tank,build_setup,move tank|relocate|transport,How do I move a nano tank safely?,Moving a Nano Tank: Step-by-Step,,Short-form,Informational,2025-10-11,Checklist + stabilization
+Fixing Tank Problems,care_troubleshoot,cloudy|bacterial bloom|haze,Why is my water cloudy?,Clearing Cloudy Aquarium Water Fast,,Short-form,Informational,2025-10-11,New tank bloom vs substrate
+Fixing Tank Problems,care_troubleshoot,algae|green water|bloom,How do I fix an algae bloom?,Fix Algae Safely Without Chemicals,,Short-form,Informational,2025-10-11,Light & nutrients
+Fixing Tank Problems,care_troubleshoot,brown algae|diatoms|silica,Why is brown algae forming?,Brown Algae in New Tanks (Diatoms),,Short-form,Informational,2025-10-11,Silicates + new tank
+Fixing Tank Problems,care_troubleshoot,black beard algae|bba,How do I remove black beard algae?,Black Beard Algae: Causes & Fixes,,Short-form,Informational,2025-10-11,Flow/light balance
+Fixing Tank Problems,care_troubleshoot,ammonia|nitrite|spike,How do I fix an ammonia spike?,Safe Ways to Fix Ammonia Spikes,,Short-form,Informational,2025-10-11,Emergency steps
+Fixing Tank Problems,care_troubleshoot,nitrate high|water changes,How do I lower high nitrates?,Lowering Nitrates the Safe Way,,Short-form,Informational,2025-10-11,Plants + WC schedule
+Fixing Tank Problems,care_troubleshoot,pH swing|low ph|high ph,Why did my pH change?,Understanding and Stabilizing pH,,Short-form,Informational,2025-10-11,KH buffering basics
+Fixing Tank Problems,care_troubleshoot,heater broke|temp drop|fail,What if my heater fails?,Emergency Heater Fixes for Fish Safety,,Short-form,Informational,2025-10-11,"Blanket, room heat, spare"
+Fixing Tank Problems,care_troubleshoot,gasping|oxygen|surface,Why are my fish gasping at the surface?,Low Oxygen Fixes and Prevention,,Short-form,Informational,2025-10-11,"Aeration, surface agitation"
+Fixing Tank Problems,care_troubleshoot,white fungus|biofilm|wood,White fungus on driftwood—dangerous?,White Fungus on Driftwood (Safe or Not?),,Short-form,Informational,2025-10-11,Harmless biofilm tips
+Aquascaping for Beginners,build_setup,aquascape design|layout|rule of thirds,How do I design a balanced aquascape?,Aquascaping Layout Basics (Rule of Thirds),,Long-form,Informational,2025-10-11,Sketch + focal point
+Aquascaping for Beginners,build_setup,hardscape|rocks|wood,How do I choose rocks and wood?,Aquascaping Hardscape 101,,Short-form,Informational,2025-10-11,"Weight, stability, safety"
+Aquascaping for Beginners,build_setup,moss|attach|glue,How do I use moss in aquascaping?,Using Moss the Easy Way,,Short-form,Informational,2025-10-11,Glue/mesh techniques
+Aquascaping for Beginners,build_setup,carpet plants|monte carlo|dwarf hairgrass,What are easy carpet plants?,Easy Carpet Plants for Low-Tech Tanks,,Short-form,Informational,2025-10-11,Light vs CO2 expectations
+Aquascaping for Beginners,build_setup,trim plants|maintenance|scissors,How do I trim aquarium plants?,Plant Trimming Without Uprooting,,Short-form,Informational,2025-10-11,Stem vs rhizome
+Aquascaping for Beginners,build_setup,iwagumi|dutch|jungle style,What aquascape styles exist?,Iwagumi vs Jungle vs Dutch (Explained),,Short-form,Informational,2025-10-11,Visual comparisons
+Aquascaping for Beginners,build_setup,depth|sand path|foreground|background,How do I create depth in small tanks?,Creating Depth in a Nano Aquascape,,Short-form,Informational,2025-10-11,Gradients & scale
+Aquascaping for Beginners,build_setup,low maintenance|no co2|slow growers,How do I make a low-maintenance layout?,Low-Maintenance Aquascape (No CO₂),,Short-form,Informational,2025-10-11,Hardy plants + low light
+Aquascaping for Beginners,build_setup,rescape|old tank|refresh,How do I rescape an old tank?,Rescaping an Old Tank Step-by-Step,,Long-form,Informational,2025-10-11,Safe livestock hold
+Aquascaping for Beginners,build_setup,photography|shoot|b-roll,How do I photograph my aquascape?,Photographing Aquascapes (Beginner Tips),,Short-form,Informational,2025-10-11,Phone-based tips
+Choosing the Right Gear,general,filter|best filter|5 gallon,Best filter for a 5-gallon tank,Best Filter for a 5-Gallon Tank,,Short-form,Commercial/Transactional,2025-10-11,HOB vs sponge
+Choosing the Right Gear,general,hob vs sponge|comparison,HOB vs Sponge Filter—Which is better?,HOB vs Sponge Filter (Pros & Cons),,Short-form,Commercial/Transactional,2025-10-11,Quiet + maintenance
+Choosing the Right Gear,general,filter media|order|layer,How do I layer filter media?,Filter Media Setup for Clear Water,,Short-form,Informational,2025-10-11,Mech -> bio -> polish
+Choosing the Right Gear,general,quiet filter|bedroom|noise,Quietest aquarium filter for bedrooms,Quiet Aquarium Filters (Bedroom-Friendly),,Short-form,Commercial/Transactional,2025-10-11,dB talk + flow rates
+Choosing the Right Gear,general,heater|nano|best heater,Best aquarium heater for small tanks,Best Heaters for Nano Tanks,,Short-form,Commercial/Transactional,2025-10-11,Accuracy & safety
+Choosing the Right Gear,general,led light|budget|plants,Best budget aquarium lights under 50,Best Budget Aquarium Lights Under $50,,Short-form,Commercial/Transactional,2025-10-11,PAR basics
+Choosing the Right Gear,general,timer|photoperiod|automation,Should I use a light timer?,Using Timers for Consistent Lighting,,Short-form,Informational,2025-10-11,Daily consistency
+Choosing the Right Gear,general,air pump|bubbles|aeration,Do I need an air pump if I have a filter?,Air Pump vs Filter Flow—Do You Need Both?,,Short-form,Informational,2025-10-11,When aeration helps
+Choosing the Right Gear,general,gravel vacuum|clean|water change,Best gravel vacuums for nano tanks,Top Gravel Vacuums for Nano Tanks,,Short-form,Commercial/Transactional,2025-10-11,Maintenance tools
+Choosing the Right Gear,general,battery backup|power outage,How do I prepare for power outages?,Battery Backup for Aquariums (What Works),,Short-form,Informational,2025-10-11,Air-only backup
+Livestock & Feeding,general,beginner fish|starter fish|10 gallon,Best beginner fish for a 10-gallon tank,Top 5 Beginner Fish for Small Tanks,,Short-form,Informational,2025-10-11,Community-safe picks
+Livestock & Feeding,general,community fish|peaceful|compatibility,Peaceful community fish suggestions,Peaceful Fish That Get Along,,Short-form,Informational,2025-10-11,Compatibility grid
+Livestock & Feeding,general,shrimp|neocaridina|care,Best shrimp for nano aquariums,Best Shrimp for Nano Aquariums,,Short-form,Informational,2025-10-11,Hardy species first
+Livestock & Feeding,general,algae eater|nano|cleanup,Best algae eaters for small tanks,Top 5 Nano Algae Eaters,,Short-form,Informational,2025-10-11,Snails & fish options
+Livestock & Feeding,general,betta tankmates|compatibility,Can bettas live with shrimp?,Can Bettas Live with Shrimp?,,Short-form,Informational,2025-10-11,Caveats & backup plan
+Livestock & Feeding,general,feed fish|how often|schedule,How often should I feed fish?,Feeding Schedule for Healthy Fish,,Short-form,Informational,2025-10-11,Once/twice daily guidance
+Livestock & Feeding,general,frozen food|dry food|live food,Frozen vs Dry vs Live Foods—Which is best?,Frozen vs Dry vs Live Foods,,Short-form,Informational,2025-10-11,Pros/cons + safety
+Livestock & Feeding,general,shrimp breeding|neo|colony,How do I breed shrimp in a nano tank?,Beginner Shrimp Breeding Basics,,Short-form,Informational,2025-10-11,Stability + biofilm
+Livestock & Feeding,general,snails escape|lid|mystery snail,How do I keep snails from escaping?,Preventing Snail Escapes (Simple Fixes),,Short-form,Informational,2025-10-11,Lids & water line
+Livestock & Feeding,general,aggression|chasing|stress,How to spot fish aggression early,Spotting & Stopping Fish Aggression,,Short-form,Informational,2025-10-11,Cover & stocking
+Nano Lifestyle (DeskTanks),general,desk tank|workspace|setup,How to set up a desk aquarium workspace,Desk Aquarium Workspace Setup,,Long-form,Informational,2025-10-11,Cable mgmt + glare
+Nano Lifestyle (DeskTanks),general,morning routine|maintenance|habit,My desk tank morning routine,Desk Tank Morning Routine,,Short-form,Informational,2025-10-11,Daily checklist
+Nano Lifestyle (DeskTanks),general,mental health|calm|stress,How aquariums help with mental health,Aquariums & Calm: Why It Works,,Short-form,Informational,2025-10-11,Personal angle
+Nano Lifestyle (DeskTanks),general,filming b-roll|tank video|cinematic,How to film aquarium B-roll,How I Film Aquarium B‑Roll,,Short-form,Informational,2025-10-11,Easy shots
+Nano Lifestyle (DeskTanks),general,quiet|noise|bedroom,How to keep a tank quiet while you work,Keep Your Tank Quiet (Work-Friendly Tips),,Short-form,Informational,2025-10-11,"Rubber feet, flow"
