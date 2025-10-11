@@ -1,39 +1,40 @@
 {
   "version": "1.0",
   "last_updated": "2025-10-11",
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "uns",
+      "name": "Ultum Nature Systems",
+      "website": "https://ultumnaturesystems.com",
+      "contact": { "name": "Partner Manager", "email": "partners@ultumnaturesystems.com" },
+      "categories": ["Tank", "Filter", "Light"],
+      "exclusivity": ["Tank"],
+      "brand_aliases": ["uns", "ultum nature systems"],
+      "contract_start": "2026-01-01",
+      "contract_end": "2026-06-30",
+      "disclosure_text": "Some products are provided by Ultum Nature Systems. Non-sponsored alternatives are always included.",
+      "utm": { "source": "aquaria", "medium": "sponsor", "campaign": "uns_core_2026h1" },
+      "notes": "Lead with UNS where specs match; always include a non-sponsored alternative."
+    },
+    {
+      "id": "fzone",
+      "name": "FZONE",
+      "website": "https://fzone-aqua.com",
+      "contact": { "name": "BD", "email": "bd@fzone-aqua.com" },
+      "categories": ["Light", "CO2 System"],
+      "exclusivity": [],
+      "brand_aliases": ["fzone"],
+      "contract_start": "2026-02-01",
+      "contract_end": "2026-05-31",
+      "disclosure_text": "Some lighting and CO₂ links are sponsored by FZONE. Non-sponsored alternatives are always included.",
+      "utm": { "source": "aquaria", "medium": "sponsor", "campaign": "fzone_q2_2026" },
+      "notes": "Prefer only when user constraints fit output and budget."
+    }
+  ],
   "rules": {
     "maxSponsoredCategoryRatio": 0.5,
     "requireNonSponsoredAlt": true,
     "capOneSponsoredPerCategory": true,
     "specCheckMustPass": true
   }
-}
-{
-  "id": "uns",
-  "name": "Ultum Nature Systems",
-  "website": "https://ultumnaturesystems.com",
-  "contact": { "name": "Partner Manager", "email": "partners@ultumnaturesystems.com" },
-  "categories": ["Tank", "Filter", "Light"],
-  "exclusivity": ["Tank"],
-  "brand_aliases": ["uns", "ultum nature systems"],
-  "contract_start": "2026-01-01",
-  "contract_end": "2026-06-30",
-  "disclosure_text": "Some products are provided by Ultum Nature Systems. Non-sponsored alternatives are always included.",
-  "utm": { "source": "aquaria", "medium": "sponsor", "campaign": "uns_core_2026h1" },
-  "notes": "Lead with UNS where specs match; always include a non-sponsored alternative."
-}
-{
-  "id": "fzone",
-  "name": "FZONE",
-  "website": "https://fzone-aqua.com",
-  "contact": { "name": "BD", "email": "bd@fzone-aqua.com" },
-  "categories": ["Light", "CO2 System"],
-  "exclusivity": [],
-  "brand_aliases": ["fzone"],
-  "contract_start": "2026-02-01",
-  "contract_end": "2026-05-31",
-  "disclosure_text": "Some lighting and CO₂ links are sponsored by FZONE. Non-sponsored alternatives are always included.",
-  "utm": { "source": "aquaria", "medium": "sponsor", "campaign": "fzone_q2_2026" },
-  "notes": "Prefer only when user constraints fit output and budget."
 }
