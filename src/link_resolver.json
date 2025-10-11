@@ -1,9 +1,35 @@
 {
-  "description": "Picks a primary product and a required non-sponsored alternative for any category.",
+  "description": "Resolves affiliate and sponsored products for Shop the Build with ethical disclosure.",
   "rules": {
     "must_include_unsponsored_alternative": true,
     "prefer_priority": true,
-    "disclosure": "Some links may support Aquaria. A non-sponsored alternative is always included.",
+    "maxSponsoredCategoryRatio": 0.5,
+    "capOneSponsoredPerCategory": true,
+    "specCheckMustPass": true,
+
+    "disclosure": {
+      "default": "Some links may support Aquaria. A non-sponsored alternative is always included.",
+      "affiliate": "Some links may support Aquaria through affiliate programs at no extra cost to you. A non-sponsored alternative is always included.",
+      "sponsor": "Some products are provided through sponsorships. A non-sponsored alternative is always included.",
+      "combined": "Some links may support Aquaria through affiliate programs or sponsorships. A non-sponsored alternative is always included.",
+      "sponsor_specific": {
+        "uns": "Some products are provided by Ultum Nature Systems. A non-sponsored alternative is always included.",
+        "fzone": "Some lighting and CO₂ links are sponsored by FZONE. A non-sponsored alternative is always included."
+      }
+    },
+
     "fallback_text": "If links are unavailable, ask your local store for equivalent specs."
+  },
+
+  "matching": {
+    "categories_supported": [
+      "Tank", "Filter", "Heater", "Substrate", "Plants",
+      "Water Conditioner", "Light", "CO2 System", "Testing",
+      "Maintenance", "Feeding", "Hardscape"
+    ],
+    "sponsor_brand_map_hint": {
+      "uns": ["ultum nature systems", "uns"],
+      "fzone": ["fzone"]
+    }
   }
 }
