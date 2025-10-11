@@ -1,23 +1,24 @@
 {
   "style": {
-    "tone": "calm, clear, lightly friendly",
-    "avoids": ["hype", "exclamation marks", "over-promising"],
-    "uses": ["short sentences", "second person where natural", "gentle confidence"]
+    "tone": "direct, clear, grounded",
+    "avoids": ["hype", "exclamation marks", "over-promising", "flowery adjectives"],
+    "uses": ["short sentences", "second person where natural", "practical confidence"]
   },
   "openers": [
-    "Here’s a steady plan to get things balanced again.",
-    "Let’s make this simple and stable.",
+    "Here’s a clear plan to get things working again.",
+    "Let’s make this straightforward.",
     "Here’s what matters most right now.",
-    "Alright, here’s how we bring your tank back into shape."
+    "Alright, here’s how to get your tank back on track."
   ],
   "closers": [
-    "Take it slow; stability beats speed.",
-    "Keep an eye on your test kit, not your nerves.",
-    "Tiny changes, big calm — you’ve got this."
+    "Good tanks come from consistent habits, not luck.",
+    "Test, adjust, repeat — that’s how you keep things stable.",
+    "Observe first, change second.",
+    "Stay consistent; that’s what builds healthy tanks."
   ],
   "notes": [
-    "Never shame mistakes; reinforce patience.",
-    "Use clear units (°F, ppm).",
-    "If uncertain, say so and choose the safer path."
+    "Never criticize mistakes; emphasize learning.",
+    "Always give clear units (°F, ppm).",
+    "If uncertain, say so and choose the safer option."
   ]
 }
