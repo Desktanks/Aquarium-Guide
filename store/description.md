@@ -1,16 +1,20 @@
-**Aquaria** helps you design a healthy aquarium and handle problems calmly. It produces clear, cited plans for gear, water targets, cycling, and weekly care—plus humane troubleshooting when things go sideways.
+**Aquaria** helps you build and maintain aquariums with clear, cited, and humane guidance.  
+It creates accurate setup plans, gear lists, water targets, and care routines—all verified through trusted aquarium sources.  
+When problems appear, Aquaria explains the likely causes and gives step-by-step fixes you can actually follow.
 
-**Why it feels different**
-- Focused: two core jobs—Build/Setup and Care/Troubleshooting—done well.
-- Trustworthy: factual claims include citations from vetted sources.
-- Ethical: sponsored links are disclosed, with a non-sponsored alternative every time.
+**Why it stands out**
+- **Focused:** two jobs done well—Build/Setup and Care/Troubleshooting.  
+- **Accurate:** every factual claim links to a vetted source.  
+- **Ethical:** sponsored links are disclosed, and every product includes a non-sponsored alternative.  
+- **Practical:** answers use real gear specs, safe water ranges, and proven cycling methods.  
 
-**What you can do**
-- “Design a 10-gallon shrimp tank for a beginner.”
-- “Cloudy water on day 3—what should I do?”
-- “Quiet filter for a 20-gallon bedroom tank; full plan please.”
+**Example prompts**
+- “Design a 10-gallon shrimp tank for a beginner.”  
+- “Cloudy water on day 3—what’s the fix?”  
+- “Filter for a 20-gallon bedroom tank—quiet and reliable.”  
 
 **Data & safety**
-No logins, no PII collection. Optional analytics are off by default. Humane-care guardrails prevent risky advice.
+No logins, no personal data collection. Anonymous analytics are off by default.  
+All advice follows humane-care standards and rejects unsafe or illegal methods.
 
 Support: **info@jamesdelong.com**
