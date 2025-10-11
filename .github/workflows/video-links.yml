@@ -1,0 +1,26 @@
+name: Build video_links.json
+
+on:
+  push:
+    paths:
+      - "data/video_links.csv"
+      - "tools/convert_video_links.py"
+  workflow_dispatch:
+
+jobs:
+  build-json:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Convert CSV → JSON
+        run: python tools/convert_video_links.py
+      - name: Commit JSON
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/video_links.json
+          git commit -m "chore: rebuild video_links.json" || echo "No changes"
+          git push
