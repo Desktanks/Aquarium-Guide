@@ -1,7 +1,7 @@
-# Aquaria — ChatGPT Store Submission Packet (CFT 15)
+# Aquaria — ChatGPT Store Submission Packet
 
-**Version:** 1.0  
-**Date:** Oct 10 2025  
+**Version:** 1.1  
+**Date:** Oct 10, 2025  
 **Developer:** James DeLong  
 **Support:** info@jamesdelong.com  
 **Category:** Home & Hobbies  
@@ -9,57 +9,58 @@
 ---
 
 ## 🐠 Overview
-Aquaria helps people design and maintain aquariums calmly and correctly.  
-It creates cited build plans and humane troubleshooting guides using verified sources and transparent gear links.
+Aquaria helps people design and maintain aquariums with accurate, humane, and fully cited guidance.  
+It generates verified setup plans, care routines, and troubleshooting steps that follow responsible husbandry standards and real-world gear data.
 
-**Key modules**
-- **Build / Setup Plan** — gear list, water targets, cycling steps, maintenance schedule  
-- **Care & Troubleshooting** — likely causes, numbered fixes, prevention, useful gear  
+**Key Modules**
+- **Build / Setup Plan** — equipment list, water targets, cycling guide, and maintenance schedule  
+- **Care & Troubleshooting** — causes, numbered fixes, prevention tips, and gear options  
 
 ---
 
 ## 🌊 Value
-- Clear, cited instructions for any tank type  
-- Humane and ethical standards (no risky hacks)  
+- Direct, step-by-step answers for any aquarium type  
+- Humane, science-based standards (no risky shortcuts)  
 - Sponsored links disclosed; unsponsored options always included  
-- No login or personal data required  
+- No login, tracking, or personal data required  
+- Consistent, cited responses that scale from beginner to advanced users  
 
 ---
 
-## 🧱 Technical summary
-- Built for the ChatGPT Apps SDK  
-- Two core modules (`build_setup.json`, `care_troubleshoot.json`)  
-- Structured templates + tone strings + safety & privacy policies  
-- Analytics off by default (`src/config.json`)  
-- No external authentication required (`src/auth_config.json`)  
+## 🧱 Technical Summary
+- Built with the ChatGPT **Apps SDK**  
+- Two main modules: `build_setup.json` and `care_troubleshoot.json`  
+- Structured templates, citation layer, and tone configuration  
+- Anonymous metrics optional and off by default (`src/config.json`)  
+- No external authentication (`src/auth_config.json`)  
 
 ---
 
 ## 🧍‍♀️ Safety & Ethics
-- Refuses harmful or illegal advice (`src/safety_rules.json`)  
-- Uses calm refusal messages and support footer  
-- Every factual statement cites a source from the vetted whitelist  
-- Complies with humane-care and content standards  
+- Rejects harmful, unsafe, or illegal care requests (`src/safety_rules.json`)  
+- Follows humane livestock standards and ethical stocking guidelines  
+- Each factual statement cites a trusted source from the approved whitelist  
+- Includes user-visible safety and support footer with contact info  
 
 ---
 
 ## 🔒 Privacy
-- No PII collection or storage (`docs/privacy.md`)  
-- Optional anonymous usage analytics (opt-in)  
-- Sponsored links resolved locally; no external tracking  
+- No personally identifiable information collected or stored (`docs/privacy.md`)  
+- Optional anonymous usage analytics (opt-in only)  
+- Product links resolved locally; no third-party tracking or cookies  
 
 ---
 
 ## 💬 Tone & UX
-- Calm, factual, lightly friendly voice (`src/voice_strings.json`)  
-- Consistent layout with bold section headers (`src/layout_ux.json`)  
-- Example outputs validated during internal test flight (`docs/test_report.md`)  
+- Direct, clear, grounded voice (`src/voice_strings.json`)  
+- Consistent layout with clear section headers (`src/layout_ux.json`)  
+- Example outputs verified during internal testing (`docs/test_report.md`)  
 
 ---
 
 ## 🛠️ Store Assets
 Located in `/store/`  
-- **Tagline:** “Build and care for your tank — calm, cited, humane.”  
+- **Tagline:** “Smart aquarium planning and care — clear, humane, and reliable.”  
 - **Description:** See `store/description.md`  
 - **Icon:** `store/icon-notes.md`  
 - **Screenshots:** `store/screenshots.md`  
@@ -69,15 +70,16 @@ Located in `/store/`
 
 ## ✅ QA Status
 - Internal test flight completed (see `docs/test_report.md`)  
-- All JSON validated in GitHub  
-- Email confirmed: info@jamesdelong.com  
-- Remaining todos: replace placeholder URLs, record demo clip  
+- All JSON validated in GitHub Actions  
+- Contact verified: info@jamesdelong.com  
+- Remaining todos: finalize demo clip and confirm public repo visibility  
 
 ---
 
 ## 📦 Submission URL / Repo
-GitHub Repo: https://github.com/desktanks/aquaria  
+GitHub Repo: [https://github.com/desktanks/aquaria](https://github.com/desktanks/aquaria)
 
 ---
 
-**Definition of Done:** App is complete, documented, and ready for submission when ChatGPT Store submissions open.
+**Definition of Done:**  
+Aquaria runs successfully in ChatGPT via the Apps SDK, passes safety and privacy checks, and includes complete documentation and store assets for submission.
