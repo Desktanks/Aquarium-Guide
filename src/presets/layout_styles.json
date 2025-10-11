@@ -1,0 +1,65 @@
+{
+  "description": "Common aquascaping layout presets recognized by Aquaria. Each includes core traits, difficulty, and search-friendly aliases.",
+  "layouts": [
+    {
+      "style": "Iwagumi Layout",
+      "aliases": ["iwagumi aquascape", "stone garden layout", "minimal rock layout"],
+      "difficulty": "intermediate",
+      "composition": "Stone-based minimalist design with one keystone rock and smaller supporting stones.",
+      "plant_focus": "Short carpets and low plants; open foreground.",
+      "aesthetic": "Balanced, calm terrain that emphasizes negative space and proportion.",
+      "best_for": ["nano tanks", "shrimp", "peaceful schooling fish"],
+      "keywords": ["iwagumi", "minimalist aquascape", "rockscape"]
+    },
+    {
+      "style": "Nature Layout",
+      "aliases": ["amano style", "nature aquarium", "natural aquascape"],
+      "difficulty": "intermediate",
+      "composition": "Organic arrangement of wood, stone, and plants inspired by natural landscapes.",
+      "plant_focus": "Mixed species for depth and texture; mosses and epiphytes on wood or rock.",
+      "aesthetic": "Looks spontaneous but follows rule-of-thirds balance; evokes a scene from nature.",
+      "best_for": ["community tanks", "planted fish tanks"],
+      "keywords": ["nature aquarium", "amano", "natural planted tank"]
+    },
+    {
+      "style": "Island Layout",
+      "aliases": ["island aquascape", "mound layout", "central island"],
+      "difficulty": "beginner",
+      "composition": "Central mound or island of hardscape and plants with open water around it.",
+      "plant_focus": "Tall plants in the center fading to low borders.",
+      "aesthetic": "Peaceful focal composition, easy to maintain; strong beginner success rate.",
+      "best_for": ["nano tanks", "betta tanks", "classroom displays"],
+      "keywords": ["island aquascape", "central layout", "mound scape"]
+    },
+    {
+      "style": "Triangle Layout",
+      "aliases": ["triangular layout", "sloped aquascape", "right-leaning layout", "left-leaning layout"],
+      "difficulty": "beginner",
+      "composition": "Plants and hardscape rise from one corner to the opposite high point, forming a diagonal triangle.",
+      "plant_focus": "Short foreground plants graduating to tall stems at the peak.",
+      "aesthetic": "Dynamic sense of flow and direction; fits wide or shallow tanks well.",
+      "best_for": ["standard rectangles", "Dutch-style influence"],
+      "keywords": ["triangle aquascape", "sloped aquarium", "triangular layout"]
+    },
+    {
+      "style": "Concave Layout",
+      "aliases": ["valley layout", "u-shape aquascape", "concave aquascape"],
+      "difficulty": "intermediate",
+      "composition": "Two raised sides frame a central open valley; strong depth effect.",
+      "plant_focus": "Tall plants and hardscape on the sides, low carpet or path in the center.",
+      "aesthetic": "Inviting ‘window’ into the tank; highlights perspective and scale.",
+      "best_for": ["community fish", "depth-focused photography"],
+      "keywords": ["concave", "u-shape aquascape", "valley aquascape"]
+    },
+    {
+      "style": "Jungle Layout",
+      "aliases": ["jungle aquascape", "wild aquascape", "natural overgrown layout"],
+      "difficulty": "beginner",
+      "composition": "Dense, semi-wild plant growth with minimal trimming and natural driftwood.",
+      "plant_focus": "Fast-growing stems and floating plants for nutrient control.",
+      "aesthetic": "Lush, organic, and forgiving; prioritizes biodiversity over symmetry.",
+      "best_for": ["shrimp colonies", "low-tech tanks", "Walstad-style builds"],
+      "keywords": ["jungle aquascape", "overgrown aquarium", "natural jungle tank"]
+    }
+  ]
+}
