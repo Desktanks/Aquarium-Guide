@@ -1,14 +1,29 @@
 {
   "name": "Aquaria",
-  "description": "Calm, cited guidance for aquarium setup and care.",
-  "version": "1.0.0",
-  "author": "Desktanks",
+  "description": "Direct, accurate guidance for building and maintaining aquariums. Provides verified setup plans, species-safe care advice, and real product links for fish, shrimp, and planted tanks.",
+  "tagline": "Smart aquarium planning and care — clear, humane, and reliable.",
+  "version": "1.1.0",
+  "author": "DeskTanks",
   "license": "MIT",
   "entrypoint": "src/intent_router.json",
   "privacy_policy_url": "docs/privacy.md",
   "safety_policy_url": "docs/safety.md",
   "support_url": "store/support.txt",
   "categories": ["Home & Hobbies"],
+  "keywords": [
+    "aquarium",
+    "fish tank",
+    "planted tank",
+    "aquascaping",
+    "shrimp tank",
+    "nano tank",
+    "fish care",
+    "aquarium cycling",
+    "algae control",
+    "freshwater aquarium",
+    "tank maintenance",
+    "aquarium setup"
+  ],
   "manifest": {
     "tools": [
       {
@@ -16,5 +31,13 @@
         "path": "tools/hello_tank.json"
       }
     ]
+  },
+  "safety": {
+    "policy": "Humane livestock care only; no unsafe chemicals or overstocking.",
+    "refusals": "Rejects requests involving cruelty, illegal species, or harmful shortcuts."
+  },
+  "privacy": {
+    "collects_pii": false,
+    "telemetry_opt_in": false
   }
 }
