@@ -1,11 +1,11 @@
-category	brand	model	specs	affiliate_url	sponsor_flag	priority	non_sponsored_alt	why_this	last_verified
-Filter	BrandX	QuietSponge 20	sponge + air; up to 20 gal (75.7 L)	https://example.com/quiet20?s=aff123	TRUE	1	Generic Sponge 20	Quiet and reliable airflow; easy to clean.	2025-10-10
-Filter	Generic	Sponge Filter 20	sponge + air; up to 20 gal (75.7 L)		FALSE	2			2025-10-10
-Heater	ThermaCo	Adjust 50W	adjustable; 50 W; for 10–20 gal (38–76 L)	https://example.com/thermaco-50?s=aff123	TRUE	1	Generic Adjustable 50W	Consistent heat and reliable thermostat.	2025-10-10
-Heater	Generic	Adjustable 50W	adjustable; 50 W; for 10–20 gal (38–76 L)		FALSE	2			2025-10-10
-Substrate	InertCo	Inert Sand	neutral; fine grain; 10 lb (4.5 kg) bag		FALSE	1			2025-10-10
-Plants	LiveGreen	Java Moss	low light; easy; foreground/cover		FALSE	1			2025-10-10
-Water Conditioner	ClearWater	PrimeEquivalent	dechlorinator; binds ammonia; treats 1000 gal (3785 L)	https://example.com/clearwater-prime?s=aff123	TRUE	1	Generic Dechlorinator	Reliable dechlorinator with ammonia binder.	2025-10-10
-Water Conditioner	Generic	Dechlorinator	standard dechlorinator; treats 500 gal (1893 L)		FALSE	2			2025-10-10
-Light	BrandY	Nano LED 20	low–med PAR; 6–8 hr/day; 12 in (30 cm)	https://example.com/nanoled20?s=aff123	TRUE	1			2025-10-10
-Test Kit	BrandZ	FW Master Kit	NH3/NH4+, NO2-, NO3-, pH; liquid reagents		FALSE	1			2025-10-10
+category,brand,model,specs,affiliate_url,sponsor_flag,priority,non_sponsored_alt,why_this,last_verified
+Filter,BrandX,QuietSponge 20,sponge + air; up to 20 gal (75.7 L),https://example.com/quiet20?s=aff123,TRUE,1,Generic Sponge 20,Quiet and reliable airflow; easy to clean.,2025-10-10
+Filter,Generic,Sponge Filter 20,sponge + air; up to 20 gal (75.7 L),,FALSE,2,,,2025-10-10
+Heater,ThermaCo,Adjust 50W,adjustable; 50 W; for 10–20 gal (38–76 L),https://example.com/thermaco-50?s=aff123,TRUE,1,Generic Adjustable 50W,Consistent heat and reliable thermostat.,2025-10-10
+Heater,Generic,Adjustable 50W,adjustable; 50 W; for 10–20 gal (38–76 L),,FALSE,2,,,2025-10-10
+Substrate,InertCo,Inert Sand,neutral; fine grain; 10 lb (4.5 kg) bag,,FALSE,1,,,2025-10-10
+Plants,LiveGreen,Java Moss,low light; easy; foreground/cover,,FALSE,1,,,2025-10-10
+Water Conditioner,ClearWater,PrimeEquivalent,dechlorinator; binds ammonia; treats 1000 gal (3785 L),https://example.com/clearwater-prime?s=aff123,TRUE,1,Generic Dechlorinator,Reliable dechlorinator with ammonia binder.,2025-10-10
+Water Conditioner,Generic,Dechlorinator,standard dechlorinator; treats 500 gal (1893 L),,FALSE,2,,,2025-10-10
+Light,BrandY,Nano LED 20,low–med PAR; 6–8 hr/day; 12 in (30 cm),https://example.com/nanoled20?s=aff123,TRUE,1,,,2025-10-10
+Test Kit,BrandZ,FW Master Kit,"NH3/NH4+, NO2-, NO3-, pH; liquid reagents",,FALSE,1,,,2025-10-10
