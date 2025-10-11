@@ -1,0 +1,56 @@
+{
+  "version": "1.0",
+  "last_updated": "2025-10-11",
+  "affiliates": [
+    {
+      "id": "amazon",
+      "brand": "Amazon Associates",
+      "program_url": "https://affiliate-program.amazon.com/",
+      "notes": "Broad gear coverage; tag general equipment and accessories.",
+      "active": true,
+      "priority": 1
+    },
+    {
+      "id": "shrimpfarm",
+      "brand": "The Shrimp Farm",
+      "program_url": "https://www.theshrimpfarm.com/affiliate-program",
+      "notes": "Niche partner for Neocaridina and Caridina shrimp gear.",
+      "active": true,
+      "priority": 2
+    }
+  ],
+  "potential_sponsors": [
+    {
+      "id": "uns",
+      "brand": "Ultum Nature Systems",
+      "contact_url": "https://ultumnaturesystems.com/sponsorships/",
+      "status": "active",
+      "priority": 1,
+      "categories": ["Tank", "Filter", "Light"],
+      "alignment": "High — design, ethics, and humane-care values."
+    },
+    {
+      "id": "fzone",
+      "brand": "FZONE",
+      "contact_url": "https://fzaqua.com/pages/distribution",
+      "status": "wholesale",
+      "priority": 2,
+      "categories": ["Light", "CO2 System"],
+      "alignment": "Good technical fit; pursue if retail or affiliate program opens."
+    },
+    {
+      "id": "ada_dooa",
+      "brand": "ADA / DOOA",
+      "contact_url": "https://aquaforestaquarium.com/collections/dooa/",
+      "status": "pending outreach",
+      "priority": 3,
+      "categories": ["Tank", "Substrate", "Hardscape"],
+      "alignment": "Strong aesthetic alignment; future collaboration candidate."
+    }
+  ],
+  "disclosure": {
+    "policy": "Affiliate links are commission-based and do not influence placement. Sponsored placements are paid and always include at least one non-sponsored alternative.",
+    "review_cycle": "Quarterly",
+    "contact": "info@jamesdelong.com"
+  }
+}
