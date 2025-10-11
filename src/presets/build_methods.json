@@ -1,0 +1,107 @@
+{
+  "description": "Aquarium setup methods Aquaria can reference when generating a build plan. Each method includes matching aliases for search/routing and concise operational guidance.",
+  "methods": [
+    {
+      "name": "Classic Flooded Startup",
+      "slug": "classic_flooded",
+      "aliases": ["standard setup", "flooded start", "regular startup"],
+      "summary": "Fill the tank on day one, plant submerged, run filter and heater, then cycle fishless before adding livestock.",
+      "when_to_use": ["Most beginner builds", "Fastest path to a planted community tank without special substrates"],
+      "duration_days": 28,
+      "lighting": { "photoperiod_hours": "6–8", "notes": "Start low, increase slowly after cycling." },
+      "filtration": "Sponge or gentle HOB/canister sized to tank; surface agitation for O2.",
+      "co2": "optional",
+      "fertilization": "optional, low-dose after week 2 if plants pale",
+      "startup_schedule": {
+        "week0_1": [
+          "Rinse tank & gear, place hardscape, plant submerged.",
+          "Fill with dechlorinated water; start filter and heater.",
+          "Dose bottled bacteria; add small ammonia source.",
+          "Test daily; do partial changes only if ammonia/nitrite spike dangerously."
+        ],
+        "week2_4": [
+          "Light 6–8 h/day; feed imaginary (pinch) to sustain cycle.",
+          "Add hardy livestock only after ammonia and nitrite = 0 for 3 consecutive days."
+        ]
+      },
+      "maintenance": [
+        "Weekly 20–30% water change with temp-matched, dechlorinated water.",
+        "Rinse prefilter sponge in tank water; trim plants lightly."
+      ],
+      "best_for": ["Community fish", "Beginner planted tanks"],
+      "not_for": ["Heavy root-feeders without ferts/soil", "Ultra-low-tech/no-filter goals"],
+      "notes": [
+        "Avoid large early water changes unless parameters spike.",
+        "Increase light slowly to prevent algae."
+      ],
+      "safety_flags": ["cycle_before_livestock", "avoid_copper_with_inverts"]
+    },
+    {
+      "name": "Dry Start Method",
+      "slug": "dry_start",
+      "aliases": ["DSM", "dry-start carpet"],
+      "summary": "Grow carpets emersed on moist substrate with high humidity before flooding; reduces early algae and yields dense roots.",
+      "when_to_use": ["Carpet-heavy scapes (Monte Carlo, hairgrass)", "Low-tech tanks that need a strong root base"],
+      "duration_days": 28,
+      "lighting": { "photoperiod_hours": "8", "notes": "Bright but not hot; avoid drying edges." },
+      "filtration": "Install hardware but keep tank unflooded until finish; add water gradually when flooding.",
+      "co2": "not used during dry phase",
+      "fertilization": "root tabs or nutrient-rich substrate under the carpet",
+      "startup_schedule": {
+        "week0_1": [
+          "Lay substrate (nutrient layer if used), hardscape, and plant carpets densely.",
+          "Mist thoroughly; cover to maintain humidity; vent daily to prevent mold."
+        ],
+        "week2_4": [
+          "Continue misting; trim runners to thicken.",
+          "Flood slowly over 1–3 days; start filter/heater and begin cycling submerged."
+        ]
+      },
+      "maintenance": [
+        "During dry phase: daily misting and 10–15 min ventilation.",
+        "After flood: standard weekly 30% changes for 2–3 weeks."
+      ],
+      "best_for": ["Iwagumi", "Concave/Convex with carpet foregrounds"],
+      "not_for": ["Stem-plant Dutch layouts", "Very large/deep tanks (humidity control is harder)"],
+      "notes": [
+        "Watch for mold; increase ventilation if needed.",
+        "Do not add livestock until post-flood cycle is complete (ammonia/nitrite = 0 for 3 days)."
+      ],
+      "safety_flags": ["cycle_before_livestock", "humidity_management"]
+    },
+    {
+      "name": "Walstad Method",
+      "slug": "walstad",
+      "aliases": ["natural planted tank", "soil tank", "walstad-style"],
+      "summary": "Low-tech, biologically balanced planted tank using a soil substrate capped with sand/gravel; minimal filtration, no injected CO₂.",
+      "when_to_use": ["Low-maintenance planted tanks", "Shrimp/small fish classrooms or office tanks"],
+      "duration_days": 42,
+      "lighting": { "photoperiod_hours": "6–7", "notes": "Moderate light to match natural nutrient processing." },
+      "filtration": "Gentle flow only (sponge/air); plants handle most biofiltration.",
+      "co2": "none",
+      "fertilization": "generally none; root tabs later only if plants show deficiency",
+      "startup_schedule": {
+        "week0_1": [
+          "Soil base (mineralized or potting soil without additives) capped with 1–2 cm sand/gravel.",
+          "Plant heavily from day one with fast growers and floaters.",
+          "Fill slowly to avoid disturbing the soil; run gentle aeration."
+        ],
+        "week2_6": [
+          "Light 6–7 h; avoid overfeeding; test weekly.",
+          "Large early water changes if water is tea-colored or ammonia rises; then lengthen intervals as plants establish."
+        ]
+      },
+      "maintenance": [
+        "Light weekly trims; top-offs between less frequent water changes (bi-weekly or monthly once stable).",
+        "Vacuum very lightly to avoid disturbing soil cap."
+      ],
+      "best_for": ["Shrimp", "Small peaceful fish", "Jungle-style layouts"],
+      "not_for": ["High-bioload cichlids", "High flow species", "Precision-trim Dutch layouts"],
+      "notes": [
+        "Use plain, additive-free soil; avoid fertilizers with added ammonia or pesticides.",
+        "Cap thickness matters—too thin leads to mess, too thick can starve roots."
+      ],
+      "safety_flags": ["soil_handling", "avoid_copper_with_inverts"]
+    }
+  ]
+}
