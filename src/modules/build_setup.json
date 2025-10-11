@@ -4,7 +4,9 @@
     "tank_size_gal": "number",
     "livestock": "string",
     "tech_level": "low|mid|high",
-    "constraints": "optional string (e.g., quiet bedroom, budget)"
+    "constraints": "optional string (e.g., quiet bedroom, budget)",
+    "layout_style": "optional string (e.g., iwagumi, island, triangle, concave, jungle, nature)",
+    "build_method": "optional string (e.g., walstad, dry_start, classic_flooded, biotope, dirtless, high_tech_co2)"
   },
   "outputs": [
     "overview",
@@ -24,6 +26,8 @@
     "citation_schema": "src/citation_schema.json",
     "link_resolver": "src/link_resolver.json",
     "voice": "src/voice_strings.json",
-    "footer": "src/footer.json"
+    "footer": "src/footer.json",
+    "layout_styles": "src/presets/layout_styles.json",
+    "build_methods": "src/presets/build_methods.json"
   }
 }
