@@ -10,5 +10,9 @@
       "patterns": ["fix", "issue", "problem", "algae", "cloudy", "sick", "trouble"]
     }
   ],
-  "default_intent": "build_setup"
+  "default_intent": "build_setup",
+
+  "resolvers": [
+    { "use": "video_hint", "from": "link_resolver.json", "into": "video_hint" }
+  ]
 }
