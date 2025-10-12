@@ -31,5 +31,22 @@
       "uns": ["ultum nature systems", "uns"],
       "fzone": ["fzone"]
     }
+  },
+
+  "video_hint": {
+    "enabled": true,
+    "source": "src/video_links.json",
+    "match": {
+      "strategy": "keyword_contains",
+      "keywords_field": "keywords",
+      "intent_field": "intent",
+      "intent_allow": ["general", "build_setup", "care_troubleshoot"]
+    },
+    "fields": {
+      "title": "video_title",
+      "url": "video_url"
+    },
+    "max_results": 1,
+    "render": "🎥 Watch: {{title}} — {{url}}"
   }
 }
