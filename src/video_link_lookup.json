@@ -1,0 +1,6 @@
+{
+  "enabled": true,
+  "source": "src/video_links.json",
+  "match": { "strategy": "keyword_contains", "max_results": 1 },
+  "render": "🎥 Watch: {{video_title}} — {{video_url}}"
+}
