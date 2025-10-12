@@ -5,7 +5,8 @@
       "Equipment list with short reasoning",
       "Water parameter targets",
       "Cycling and maintenance steps",
-      "Shop the build (with sponsor disclosure)"
+      "Shop the build (with sponsor disclosure)",
+      "{{video_hint}}"
     ]
   },
   "care_troubleshoot": {
@@ -14,7 +15,8 @@
       "Likely causes",
       "Step-by-step fixes",
       "Prevention notes",
-      "Useful gear alternatives"
+      "Useful gear alternatives",
+      "{{video_hint}}"
     ]
   }
 }
