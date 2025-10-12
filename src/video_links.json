@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "generated_at": "2025-10-12T00:00:03Z",
+  "video_links": [
+    {
+      "intent": "build_setup",
+      "keywords": [
+        "rescape",
+        "old tank",
+        "refresh"
+      ],
+      "question": "How do I rescape an old tank?",
+      "video_title": "Rescaping an Old Tank Step-by-Step",
+      "video_url": "",
+      "last_updated": "",
+      "id": "how-do-i-rescape-an-old-tank",
+      "pillar": "Aquascaping for Beginners",
+      "search_intent": "Informational",
+      "notes": "Livestock holding plan"
+    }
+  ]
+}
