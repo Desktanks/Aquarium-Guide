@@ -1,11 +1,65 @@
-category,brand,model,specs,affiliate_url,sponsor_flag,priority,non_sponsored_alt,why_this,last_verified
-Filter,BrandX,QuietSponge 20,sponge + air; up to 20 gal (75.7 L),https://example.com/quiet20?s=aff123,TRUE,1,Generic Sponge 20,Quiet and reliable airflow; easy to clean.,2025-10-10
-Filter,Generic,Sponge Filter 20,sponge + air; up to 20 gal (75.7 L),,FALSE,2,,,2025-10-10
-Heater,ThermaCo,Adjust 50W,adjustable; 50 W; for 10–20 gal (38–76 L),https://example.com/thermaco-50?s=aff123,TRUE,1,Generic Adjustable 50W,Consistent heat and reliable thermostat.,2025-10-10
-Heater,Generic,Adjustable 50W,adjustable; 50 W; for 10–20 gal (38–76 L),,FALSE,2,,,2025-10-10
-Substrate,InertCo,Inert Sand,neutral; fine grain; 10 lb (4.5 kg) bag,,FALSE,1,,,2025-10-10
-Plants,LiveGreen,Java Moss,low light; easy; foreground/cover,,FALSE,1,,,2025-10-10
-Water Conditioner,ClearWater,PrimeEquivalent,dechlorinator; binds ammonia; treats 1000 gal (3785 L),https://example.com/clearwater-prime?s=aff123,TRUE,1,Generic Dechlorinator,Reliable dechlorinator with ammonia binder.,2025-10-10
-Water Conditioner,Generic,Dechlorinator,standard dechlorinator; treats 500 gal (1893 L),,FALSE,2,,,2025-10-10
-Light,BrandY,Nano LED 20,low–med PAR; 6–8 hr/day; 12 in (30 cm),https://example.com/nanoled20?s=aff123,TRUE,1,,,2025-10-10
-Test Kit,BrandZ,FW Master Kit,"NH3/NH4+, NO2-, NO3-, pH; liquid reagents",,FALSE,1,,,2025-10-10
+category,brand,model,specs,url,type,sponsor_flag,priority,non_sponsored_alt,why_this,last_verified,volume_gal,is_kit
+Tank,Fluval,Spec 5,AIO kit; filter + LED; 5 gal (18.9 L),https://www.amazon.com/dp/B00MXLAVAS,affiliate,FALSE,1,,Simple starter kit; easy maintenance.,2025-10-19,5,TRUE
+Tank,Ultum Nature Systems,Nano 3N,low-iron rimless; 3 gal (11.4 L),,neutral,FALSE,2,,Clear glass; tight seams; good for desk nanos.,2025-10-19,3,FALSE
+Tank,Ultum Nature Systems,Nano 5N,low-iron rimless; 5 gal (18.9 L),,neutral,FALSE,3,,Planted-friendly footprint; stable base.,2025-10-19,5,FALSE
+Tank,Aqueon,Standard 10,glass; silicone seams; 10 gal (37.9 L),https://www.amazon.com/dp/B0002ASG5M,affiliate,FALSE,4,,Budget glass box; flexible for custom builds.,2025-10-19,10,FALSE
+Tank,Lifegard Aquatics,Rimless 10,rimless glass; 10 gal (37.9 L),https://www.amazon.com/dp/B07KXK7N5P,affiliate,FALSE,5,,Clean look; sturdy bottom panel.,2025-10-19,10,FALSE
+Tank,Dennerle,Nano Cube 20L,cube kit; filter + light; 5.3 gal (20 L),https://www.amazon.com/dp/B07RZJS3T2,affiliate,FALSE,6,,Compact cube with tidy included hardware.,2025-10-19,5.3,TRUE
+,,,,,,,,,,,,
+Filter,Ziss Aqua,ZB Series Breeder Sponge,sponge + air; up to 20 gal (75.7 L),https://www.amazon.com/dp/B07JZ9WS21,affiliate,FALSE,1,,Durable sponge; strong uplift.,2025-10-19,,FALSE
+Filter,Ultum Nature Systems,Nano Sponge + Air,sponge + air; up to 10 gal (37.9 L),,neutral,FALSE,2,,Quiet biofiltration; shrimp-safe intake.,2025-10-19,,FALSE
+Filter,Fluval,C2 HOB,hang-on-back; 119 GPH (450 L/h),https://www.amazon.com/dp/B003SJQJ6S,affiliate,FALSE,3,,Modular media; easy service.,2025-10-19,,FALSE
+Filter,AquaClear,AC20 HOB,hang-on-back; 100 GPH (378 L/h),https://www.amazon.com/dp/B000260FUW,affiliate,FALSE,4,,Reliable classic HOB; abundant parts.,2025-10-19,,FALSE
+Filter,OASE,BioPlus 100,internal; adjustable flow; up to 26 gal (98 L),https://www.amazon.com/dp/B07YVZLZX1,affiliate,FALSE,5,,Internal filter with good polishing stage.,2025-10-19,,FALSE
+,,,,,,,,,,,,
+Heater,Eheim,Jäger 50W,adjustable; 50 W; up to 15 gal (56.8 L),https://www.amazon.com/dp/B0002AQITK,affiliate,FALSE,1,,Proven reliability and calibration ring.,2025-10-19,,FALSE
+Heater,Ultum Nature Systems,Nano Heater 25W,adjustable; 25 W; 2–5 gal (7.5–18.9 L),,neutral,FALSE,2,,Compact size for nanos; stable temp.,2025-10-19,,FALSE
+Heater,Ultum Nature Systems,Nano Heater 50W,adjustable; 50 W; 5–10 gal (18.9–37.9 L),,neutral,FALSE,3,,Good range for 5–10 gal tanks.,2025-10-19,,FALSE
+Heater,Cobalt Aquatics,Neo-Therm 50W,flat profile; 50 W; up to 15 gal (56.8 L),https://www.amazon.com/dp/B00G4Y74PW,affiliate,FALSE,4,,Slim form factor; accurate control.,2025-10-19,,FALSE
+Heater,Hygger,Mini Digital 50W,compact; 50 W; up to 10 gal (37.9 L),https://www.amazon.com/dp/B08N5RTP6B,affiliate,FALSE,5,,Small footprint; simple digital set.,2025-10-19,,FALSE
+,,,,,,,,,,,,
+Substrate,Ultum Nature Systems,Controsoil,active soil; buffers slightly; 3–5 mm,https://www.amazon.com/dp/B074G4819Z,affiliate,FALSE,1,,Plant-friendly; stable ammonium handling.,2025-10-19,,FALSE
+Substrate,ADA,Aqua Soil Amazonia,active soil; nutrient-rich; 3–5 mm,https://www.amazon.com/dp/B00U8MQQ6O,affiliate,FALSE,2,,High nutrient load; great for carpets.,2025-10-19,,FALSE
+Substrate,Fluval,Stratum,volcanic soil; light granules; 2–4 mm,https://www.amazon.com/dp/B0049RL3PQ,affiliate,FALSE,3,,Shrimp-safe; gentle buffering.,2025-10-19,,FALSE
+Substrate,CaribSea,Eco-Complete,inert planted substrate; 3–6 mm,https://www.amazon.com/dp/B0002AQX1S,affiliate,FALSE,4,,Good rooting base; no rinse needed.,2025-10-19,,FALSE
+Substrate,Seachem,Flourite Black Sand,inert sand; fine; 0.2–1 mm,https://www.amazon.com/dp/B0002AQCPI,affiliate,FALSE,5,,Clean look; stable chemistry.,2025-10-19,,FALSE
+,,,,,,,,,,,,
+Hardscape,Generic,Dragon Stone (Ohko),clay-based rock; light; holes,https://www.amazon.com/dp/B0B9C9VWSN,affiliate,FALSE,1,,Easy to stack; plant friendly.,2025-10-19,,FALSE
+Hardscape,Generic,Seiryu Stone,limestone-based rock; textured,https://www.amazon.com/dp/B07KYNQPLF,affiliate,FALSE,2,,Classic contrast; may raise KH slightly.,2025-10-19,,FALSE
+Hardscape,Generic,Mopani Driftwood,dense hardwood; sinking,https://www.amazon.com/dp/B0002AQCPK,affiliate,FALSE,3,,Natural tannins; long-lasting.,2025-10-19,,FALSE
+Hardscape,Generic,Spider Wood,branching hardwood; light,https://www.amazon.com/dp/B07RY8RW3B,affiliate,FALSE,4,,Great for dynamic scapes; quick impact.,2025-10-19,,FALSE
+Hardscape,Ultum Nature Systems,Manten Stone,natural rock; varied texture,,neutral,FALSE,5,,Premium stone with strong character.,2025-10-19,,FALSE
+,,,,,,,,,,,,
+Plant,Ultum Nature Systems,Monte Carlo Tissue Culture,low-mid light; carpeting,https://www.amazon.com/dp/B07P1P3PRC,affiliate,FALSE,1,,Easy carpet with moderate trimming.,2025-10-19,,FALSE
+Plant,Ultum Nature Systems,Anubias nana Tissue Culture,low light; epiphyte,https://www.amazon.com/dp/B09B64XJ9T,affiliate,FALSE,2,,Attach to wood/rock; hardy.,2025-10-19,,FALSE
+Plant,Tropica,1-2-Grow! Cups,assorted species; sterile cups,https://www.amazon.com/dp/B00TR0V6FE,affiliate,FALSE,3,,Pest-free starts; high success rate.,2025-10-19,,FALSE
+Plant,Dennerle,Nano Plant Set,assorted nano species; low light,https://www.amazon.com/dp/B00R0U1XK6,affiliate,FALSE,4,,Good starter bundle for nanos.,2025-10-19,,FALSE
+Plant,Aquatic Arts,Low-Light Bundle,hardy mix; easy maintenance,https://www.amazon.com/dp/B00SZC21YE,affiliate,FALSE,5,,"Simple, resilient mix for beginners.",2025-10-19,,FALSE
+,,,,,,,,,,,,
+Light,Chihiros,C2 WRGB Series,LED; adjustable intensity; app,https://www.amazon.com/dp/B0B9QLYYFH,affiliate,FALSE,1,,High output for demanding plants.,2025-10-19,,FALSE
+Light,Ultum Nature Systems,Titan 1 Nano,LED; low–med PAR; 6–8 h/day,,neutral,FALSE,2,,Clean mount; even spread for nanos.,2025-10-19,,FALSE
+Light,Fluval,Plant 3.0,LED; programmable; Bluetooth,https://www.amazon.com/dp/B07N5JZK4Z,affiliate,FALSE,3,,Reliable spectrum control; solid build.,2025-10-19,,FALSE
+Light,NICREW,SkyLED Plus,LED; budget; timer-ready,https://www.amazon.com/dp/B07YFMYNNF,affiliate,FALSE,4,,Affordable planted light; good coverage.,2025-10-19,,FALSE
+Light,Finnex,Planted+ 24/7 CRV,LED; 24/7 schedule; remote,https://www.amazon.com/dp/B07YFMM2K3,affiliate,FALSE,5,,Flexible schedules; strong value.,2025-10-19,,FALSE
+,,,,,,,,,,,,
+Conditioner,Seachem,Prime,concentrated conditioner; binds ammonia,https://www.amazon.com/dp/B00025694O,affiliate,FALSE,1,,Trusted baseline; tiny doses.,2025-10-19,,FALSE
+Conditioner,API,Stress Coat+,conditioner; aloe; dechlorinator,https://www.amazon.com/dp/B000255MZG,affiliate,FALSE,2,,Common alternative; gentle formula.,2025-10-19,,FALSE
+Conditioner,Fritz,Complete,conditioner; dechlorinator + detox,https://www.amazon.com/dp/B003I8Z0YK,affiliate,FALSE,3,,Strong alternative to Prime.,2025-10-19,,FALSE
+Conditioner,Aquavitro,Alpha,high-strength conditioner; detox,https://www.amazon.com/dp/B004RCKKFM,affiliate,FALSE,4,,High-concentration option for large changes.,2025-10-19,,FALSE
+,,,,,,,,,,,,
+CO2,CO2Art,Pro-SE Regulator,dual-stage regulator; fine control,https://www.amazon.com/dp/B07FD3CPJG,affiliate,FALSE,1,,Stable output; reliable for plants.,2025-10-19,,FALSE
+CO2,Fluval,Pressurized Kit,regulator + cylinder; starter,https://www.amazon.com/dp/B00DUVTSFY,affiliate,FALSE,2,,All-in-one starter option.,2025-10-19,,FALSE
+CO2,Aquario,Neo CO2,DIY-friendly; diffuser combo,https://www.amazon.com/dp/B0C2K6X2QG,affiliate,FALSE,3,,Budget-friendly DIY approach.,2025-10-19,,FALSE
+,,,,,,,,,,,,
+Test,API,Freshwater Master Kit,"NH3/NH4+, NO2-, NO3-, pH",https://www.amazon.com/dp/B000255NCI,affiliate,FALSE,1,,Widely available; good baseline.,2025-10-19,,FALSE
+Test,JBL,Test Combi Set,"NH3/NH4+, NO2-, NO3-, pH, KH",https://www.amazon.com/dp/B000OQFIS2,affiliate,FALSE,2,,Accurate kit with KH included.,2025-10-19,,FALSE
+Test,Ultum Nature Systems,Nano Parameter Kit,"NH3/NH4+, NO2-, NO3-, pH",,neutral,FALSE,3,,Covers core parameters for cycling.,2025-10-19,,FALSE
+,,,,,,,,,,,,
+Maintenance,Python,No Spill Water Changer,gravel vac + faucet adapter,https://www.amazon.com/dp/B000255NXC,affiliate,FALSE,1,,Fast water changes; less mess.,2025-10-19,,FALSE
+Maintenance,Fluval,Algae Magnet Cleaner,magnet cleaner; medium,https://www.amazon.com/dp/B000255LZ2,affiliate,FALSE,2,,Quick daily glass cleanup.,2025-10-19,,FALSE
+Maintenance,Aquapro,Nano Gravel Vacuum,small gravel vac; narrow tube,https://www.amazon.com/dp/B07SXDWPGZ,affiliate,FALSE,3,,Fits nano tanks; gentle flow.,2025-10-19,,FALSE
+,,,,,,,,,,,,
+Feeding,Hikari,Micro Pellets,micro pellets; omnivore,https://www.amazon.com/dp/B0038M3IYY,affiliate,FALSE,1,,Trusted staple; consistent size.,2025-10-19,,FALSE
+Feeding,Fluval,Bug Bites,insect-based; sinking,https://www.amazon.com/dp/B0758CLYYT,affiliate,FALSE,2,,High acceptance; good protein.,2025-10-19,,FALSE
+Feeding,Omega One,Shrimp & Fish,algae + shrimp formulas,https://www.amazon.com/dp/B0002AQE0K,affiliate,FALSE,3,,Clean ingredients; good color.,2025-10-19,,FALSE
+Feeding,Repashy,Soilent Green (Gel),gel food; grazer fish/shrimp,https://www.amazon.com/dp/B00U8MK3PO,affiliate,FALSE,4,,Great for grazers; low waste.,2025-10-19,,FALSE
