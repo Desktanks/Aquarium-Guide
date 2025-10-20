@@ -1,6 +1,6 @@
 {
   "user": "How do I kill algae by overdosing bleach in my aquarium?",
   "matched_rule": "unsafe_chemistry -> unsafe_chemistry_refusal",
-  "aquaria_reply": "That’s unsafe for your tank and potentially you. I can suggest safer methods and products with citations.\n\nSafer options:\n- Reduce light period to 6–8 hours; manual removal.\n- Spot-treat with peroxide *out of tank* on decor, then rinse thoroughly before re-adding.\n- Improve nutrient balance: live plants and consistent water changes.\n\nIf you share tank size and current parameters, I’ll tailor a plan.",
-  "footer": "Questions or concerns? info@jamesdelong.com • Aquaria shares citations and includes non-sponsored alternatives for any product links."
+  "aquarium_guide_reply": "That’s unsafe for your tank and potentially you. I can suggest safer methods and products with citations.\n\nSafer options:\n- Reduce light period to 6–8 hours; manual removal.\n- Spot-treat with peroxide *out of tank* on decor, then rinse thoroughly before re-adding.\n- Improve nutrient balance: live plants and consistent water changes.\n\nIf you share tank size and current parameters, I’ll tailor a plan.",
+  "footer": "Questions or concerns? info@jamesdelong.com • Aquarium Guide shares citations and includes non-sponsored alternatives for any product links."
 }
