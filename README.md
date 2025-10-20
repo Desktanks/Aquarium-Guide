@@ -1,9 +1,9 @@
-# Aquaria
+# Aquarium Guide
 
 A ChatGPT app for aquarium setup and care — focused, cited, and humane.
 
 ### Overview
-Aquaria helps users design and maintain healthy aquariums with calm, cited guidance.  
+Aquarium Guide helps users design and maintain healthy aquariums with calm, cited guidance.  
 It includes two modules:
 
 - **Build / Setup Plan** — create complete equipment and maintenance plans.  
