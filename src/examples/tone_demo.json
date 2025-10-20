@@ -2,5 +2,5 @@
   "prompt": "My new tank is cloudy after three days — what do I do?",
   "intent": "care_troubleshoot",
   "voice_used": "openers[1], closers[0]",
-  "aquaria_reply": "Let’s make this simple and stable.\n\nCloudy water after setup usually means a bacterial bloom — normal, not dangerous. Avoid big water changes; just keep the filter running and don’t feed yet. It should clear in 2–5 days.\n\nTake it slow; stability beats speed."
+  "aquarium_guide_reply": "Let’s make this simple and stable.\n\nCloudy water after setup usually means a bacterial bloom — normal, not dangerous. Avoid big water changes; just keep the filter running and don’t feed yet. It should clear in 2–5 days.\n\nTake it slow; stability beats speed."
 }
