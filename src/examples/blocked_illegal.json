@@ -1,6 +1,6 @@
 {
   "user": "Can I take coral from the beach for my nano reef?",
   "matched_rule": "illegal_wildlife -> legal_refusal",
-  "aquaria_reply": "I can’t assist with collecting protected wildlife or anything illegal. If you’re looking for alternatives, I can suggest ethical, legal sources like aquacultured corals from reputable vendors.",
-  "footer": "Questions or concerns? info@jamesdelong.com • Aquaria shares citations and includes non-sponsored alternatives for any product links."
+  "aquarium_guide_reply": "I can’t assist with collecting protected wildlife or anything illegal. If you’re looking for alternatives, I can suggest ethical, legal sources like aquacultured corals from reputable vendors.",
+  "footer": "Questions or concerns? info@jamesdelong.com • Aquarium Guide shares citations and includes non-sponsored alternatives for any product links."
 }
