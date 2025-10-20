@@ -1,5 +1,5 @@
 {
-  "description": "Formatting and layout conventions for Aquaria responses inside ChatGPT.",
+  "description": "Formatting and layout conventions for Aquarium Guide responses inside ChatGPT.",
   "rules": {
     "headings": "Use bold for section titles (no markdown #'s). Example: **Overview**",
     "lists": "Use bullet points for unordered lists, numbered lists for steps.",
