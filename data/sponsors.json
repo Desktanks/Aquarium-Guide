@@ -13,7 +13,7 @@
       "contract_start": "2026-01-01",
       "contract_end": "2026-06-30",
       "disclosure_text": "Some products are provided by Ultum Nature Systems. Non-sponsored alternatives are always included.",
-      "utm": { "source": "aquaria", "medium": "sponsor", "campaign": "uns_core_2026h1" },
+      "utm": { "source": "aquarium guide", "medium": "sponsor", "campaign": "uns_core_2026h1" },
       "notes": "Lead with UNS where specs match; always include a non-sponsored alternative."
     },
     {
@@ -27,7 +27,7 @@
       "contract_start": "2026-02-01",
       "contract_end": "2026-05-31",
       "disclosure_text": "Some lighting and CO₂ links are sponsored by FZONE. Non-sponsored alternatives are always included.",
-      "utm": { "source": "aquaria", "medium": "sponsor", "campaign": "fzone_q2_2026" },
+      "utm": { "source": "aquarium guide", "medium": "sponsor", "campaign": "fzone_q2_2026" },
       "notes": "Prefer only when user constraints fit output and budget."
     }
   ],
