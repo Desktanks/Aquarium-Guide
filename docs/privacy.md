@@ -1,4 +1,4 @@
-# Privacy & Data Policy — Aquaria (v1)
+# Privacy & Data Policy — Aquarium Guide (v1)
 
 **Last updated:** Oct 10 2025  
 **Purpose:** Keep things simple, transparent, and private.
@@ -14,7 +14,7 @@
 - Turning them on is opt-in and reversible inside ChatGPT’s app settings.
 
 ## Data sharing
-- Aquaria does **not** share or sell data.  
+- Aquarium Guide does **not** share or sell data.  
 - Sponsored links are resolved locally from `data/links.csv` — no user data is sent to affiliates.
 
 ## Security
