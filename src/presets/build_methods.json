@@ -1,5 +1,5 @@
 {
-  "description": "Aquarium setup methods Aquaria can reference when generating a build plan. Each method includes aliases for search/routing and concise operational guidance.",
+  "description": "Aquarium setup methods Aquarium Guide can reference when generating a build plan. Each method includes aliases for search/routing and concise operational guidance.",
   "methods": [
     {
       "name": "Classic Flooded Startup",
