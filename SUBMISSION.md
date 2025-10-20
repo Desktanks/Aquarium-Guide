@@ -77,7 +77,7 @@ Located in `/store/`
 ---
 
 ## 📦 Submission URL / Repo
-GitHub Repo: [[https://github.com/desktanks/aquaria](https://github.com/desktanks/aquaria)](https://github.com/Desktanks/Aquarium-Guide.git)
+GitHub Repo: https://github.com/Desktanks/Aquarium-Guide.git
 
 ---
 
