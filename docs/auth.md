@@ -1,4 +1,4 @@
-# Authentication & Accounts — Aquaria (v1)
+# Authentication & Accounts — Aquarium Guide (v1)
 
 **Stance:** No external accounts or logins required.
 
@@ -15,7 +15,7 @@ If a future feature needs a sponsor or retailer API, we will:
 
 ## Security notes
 - HTTPS for all external calls.
-- No credential storage by Aquaria. Tokens (if ever used) are short-lived and scoped.
+- No credential storage by Aquarium Guide. Tokens (if ever used) are short-lived and scoped.
 
 ## Support
 Questions: **info@jamesdelong.com**
