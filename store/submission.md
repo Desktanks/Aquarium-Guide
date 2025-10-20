@@ -10,4 +10,4 @@
 - Support: info@jamesdelong.com
 - Screenshots: see `store/screenshots.md`
 - Demo video (optional): see `store/demo_script.md`
-- Repo: [https://github.com/desktanks/AquariumGuide](https://github.com/Desktanks/Aquarium-Guide.git)
+- Repo: https://github.com/Desktanks/Aquarium-Guide.git
