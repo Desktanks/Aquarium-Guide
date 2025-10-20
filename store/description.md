@@ -1,6 +1,6 @@
-**Aquaria** helps you build and maintain aquariums with clear, cited, and humane guidance.  
+**Aquarium Guide** helps you build and maintain aquariums with clear, cited, and humane guidance.  
 It creates accurate setup plans, gear lists, water targets, and care routines—all verified through trusted aquarium sources.  
-When problems appear, Aquaria explains the likely causes and gives step-by-step fixes you can actually follow.
+When problems appear, Aquarium Guide explains the likely causes and gives step-by-step fixes you can actually follow.
 
 **Why it stands out**
 - **Focused:** two jobs done well—Build/Setup and Care/Troubleshooting.  
