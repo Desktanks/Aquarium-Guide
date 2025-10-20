@@ -1,6 +1,6 @@
 /**
  * search_products.js
- * Aquaria utility to read and filter product data from data/links.csv
+ * Aquarium Guide utility to read and filter product data from data/links.csv
  * ---------------------------------------------------------------
  * Reads the CSV file, applies category + optional filters
  * (volume_gal, is_kit), and returns sorted results by priority.
