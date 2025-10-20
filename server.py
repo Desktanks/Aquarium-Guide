@@ -33,7 +33,7 @@ def design_tool(input: DesignInput):
     return {
         "structuredContent": {
             "plan": {
-                "summary": "Draft Aquaria plan",
+                "summary": "Draft Aquarium Guide plan",
                 "inputs": input.dict()
             }
         }
