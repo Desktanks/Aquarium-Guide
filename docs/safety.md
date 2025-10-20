@@ -10,7 +10,7 @@
 - No human medical advice.
 
 ## Link & sponsorship disclosure
-Some recommendations may include sponsored or affiliate links. Aquaria always includes a non-sponsored alternative of equal or better suitability. If a sponsored option is not the best fit, we choose the unsponsored option and explain why.
+Some recommendations may include sponsored or affiliate links. Aquarium Guide always includes a non-sponsored alternative of equal or better suitability. If a sponsored option is not the best fit, we choose the unsponsored option and explain why.
 
 ## Support
 Questions or safety concerns? Contact: **info@jamesdelong.com**
