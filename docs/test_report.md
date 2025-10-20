@@ -1,4 +1,4 @@
-# Aquaria Internal Test Flight — CFT 14
+# Aquarium Guide Internal Test Flight — CFT 14
 
 **Date:** Oct 10, 2025  
 **Tester:** You  
