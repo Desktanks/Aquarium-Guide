@@ -9,9 +9,9 @@
 
     "disclosure": {
       "default": "Some links may support Aquaria. A non-sponsored alternative is always included.",
-      "affiliate": "Some links may support Aquaria through affiliate programs at no extra cost to you. A non-sponsored alternative is always included.",
+      "affiliate": "Some links may support Aquarium Guide through affiliate programs at no extra cost to you. A non-sponsored alternative is always included.",
       "sponsor": "Some products are provided through sponsorships. A non-sponsored alternative is always included.",
-      "combined": "Some links may support Aquaria through affiliate programs or sponsorships. A non-sponsored alternative is always included.",
+      "combined": "Some links may support Aquarium Guide through affiliate programs or sponsorships. A non-sponsored alternative is always included.",
       "sponsor_specific": {
         "uns": "Some products are provided by Ultum Nature Systems. A non-sponsored alternative is always included.",
         "fzone": "Some lighting and CO₂ links are sponsored by FZONE. A non-sponsored alternative is always included."
