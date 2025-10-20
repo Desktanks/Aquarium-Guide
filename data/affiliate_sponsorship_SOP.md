@@ -1,4 +1,4 @@
-# 🪙 Aquaria — Affiliate & Sponsorship SOP  
+# 🪙 Aquarium Guide — Affiliate & Sponsorship SOP  
 **Version:** 1.0  
 **Last updated:** 2025-10-11  
 **Owner:** James DeLong  
@@ -7,7 +7,7 @@
 ---
 
 ## 🧩 Overview  
-Aquaria includes two ethical monetization layers:  
+Aquarium Guide includes two ethical monetization layers:  
 
 1. **Affiliate System** – uses partner tracking links (e.g., Amazon, BucePlant) to earn small commissions.  
 2. **Sponsorship System** – for paid brand placements (e.g., UNS, FZONE) that appear in “🛒 Shop the Build.”  
