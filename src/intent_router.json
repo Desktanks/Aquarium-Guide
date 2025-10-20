@@ -1,5 +1,5 @@
 {
-  "description": "Routes user prompts to the correct Aquaria module.",
+  "description": "Routes user prompts to the correct Aquarium Guide module.",
   "routes": [
     {
       "intent": "build_setup",
