@@ -1,6 +1,6 @@
 {
   "name": "hello_tank",
-  "description": "Returns a friendly greeting from Aquaria.",
+  "description": "Returns a friendly greeting from Aquarium Guide.",
   "input_schema": {
     "type": "object",
     "properties": {
