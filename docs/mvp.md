@@ -1,4 +1,4 @@
-# Aquaria — MVP Definition (CFT 1)
+# Aquarium Guide — MVP Definition (CFT 1)
 
 **Owner:** You
 **Date:** Oct 10, 2025
