@@ -1,7 +1,7 @@
-# Aquaria — ChatGPT Store Submission Packet
+# Aquarium Guide — ChatGPT Store Submission Packet
 **Purpose:** Content to paste into the ChatGPT Store form when submissions open.
 
-- App name: Aquaria
+- App name: Aquarium Guide
 - Tagline: (from `store/tagline.txt`)
 - Category: Home & Hobbies
 - Description: (from `store/description.md`)
@@ -10,4 +10,4 @@
 - Support: info@jamesdelong.com
 - Screenshots: see `store/screenshots.md`
 - Demo video (optional): see `store/demo_script.md`
-- Repo: https://github.com/desktanks/aquaria
+- Repo: https://github.com/desktanks/AquariumGuide
