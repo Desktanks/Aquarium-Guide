@@ -1,4 +1,4 @@
-# Aquaria — ChatGPT Store Submission Packet
+# Aquarium Guide — ChatGPT Store Submission Packet
 
 **Version:** 1.1  
 **Date:** Oct 10, 2025  
@@ -9,7 +9,7 @@
 ---
 
 ## 🐠 Overview
-Aquaria helps people design and maintain aquariums with accurate, humane, and fully cited guidance.  
+Aquarium Guide helps people design and maintain aquariums with accurate, humane, and fully cited guidance.  
 It generates verified setup plans, care routines, and troubleshooting steps that follow responsible husbandry standards and real-world gear data.
 
 **Key Modules**
