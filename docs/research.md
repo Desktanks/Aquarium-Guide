@@ -1,4 +1,4 @@
-# Research & Citations — Aquaria (v1.2)
+# Research & Citations — Aquarium Guide (v1.2)
 
 **Goal:** Every factual claim about species, parameters, safety, or treatments is backed by a traceable source.
 
